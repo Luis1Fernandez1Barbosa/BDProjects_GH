@@ -1,0 +1,54 @@
+-- Fernández Barbosa Luis Antonio		2808
+-- 1er Examén Parcial 
+-- Problema 1 (Punto no resuelto) 
+		-- mysqldump --root=$USER --LAFB2000=$PASSWORD --colegio2808 < colegio.sql 
+-- Problema 2
+show variables like '%error%';
+-- Problema 3
+use colegio2808;
+update alumnos set curp='XEXX010101HNEXXXA4' where sexo='M';
+commit;
+-- Problema 4
+set SQL_SAFE_UPDATES=0;
+start transaction;
+delete from alumnos where sexo='';
+savepoint punto_1;
+delete from alumnos where sexo='';
+rollback to punto_1;
+-- Problema 5 (Punto no resuelto)
+create view v_alumno as select * from alumnos;
+create view v_profesor as select * from profesores;
+-- Problema 6
+create role 'readV','writeNGS','writeC7';
+-- a) (error)
+		-- grant select on 'v_alumno' to 'readV';
+		-- grant select on 'v_profesor' to 'readV';
+-- b)
+grant insert on colegio2808.niveles to 'writeNGS';
+grant insert on colegio2808.grados to 'writeNGS';
+grant insert on colegio2808.salones to 'writeNGS';
+-- c)
+grant insert on colegio2808.alumnos.curp to 'writeC7';
+grant insert on colegio2808.alumnos.peso to 'writeC7';
+grant insert on colegio2808.pagos.pago to 'writeC7';
+grant insert on colegio2808.pagos.fecha_op to 'writeC7';
+grant insert on colegio2808.evaluaciones.calificacion to 'writeC7';
+grant insert on colegio2808.evaluaciones.fmod to 'writeC7';
+-- Problema 7
+create role 'lectura', 'escritura';
+grant select on *.* to 'lectura';
+grant insert on *.* to 'escritura';
+create user 'lector_Luis_2808'@'localhost' identified by 'pass1' with max_user_connections 1;
+grant select on *.* to 'lector_Luis_2808'@'localhost';
+-- Problema 8
+create user 'escritor_Luis_2808'@'localhost' identified by 'pass2' 
+with max_queries_per_hour 50 
+max_updates_per_hour 15 
+max_user_connections 2;
+
+grant 'lectura' to 'escritor_Luis_2808'@'localhost';
+grant 'escritura' to 'escritor_Luis_2808'@'localhost';
+-- Problema 9
+show grants for 'escritor_Luis_2808'@'localhost' using 'escritura';
+-- Problema 10 (Punto no resuelto)
+		-- mysqldump -u root -p LAFB2000 colegio2808 alumnos>ALUMNOS_%date:\=%_%time:~0,2%-%time:~3.2%-%time:~6,2%.sql

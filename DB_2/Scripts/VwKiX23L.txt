@@ -1,0 +1,28 @@
+- Vistas
+ 
+create or replace view alumnas as
+select clave_alu matricula, concat_ws(' ', nombre, ap_paterno, ap_materno) as alumno, curp, ciudad
+from alumnos
+where sexo = 'F';
+ 
+create or replace view alumnos_pagos as
+select a.clave_alu, concat_ws(' ', nombre, ap_paterno, ap_materno) as alumno, ifnull(sum(pago), 0)  as tpago, count(pago) as npago 
+from alumnos a
+left join pagos p ON(a.clave_alu = p.clave_alu)
+group by a.clave_alu;
+
+ 
+-- consultas para privilegios
+SELECT CONCAT('SHOW GRANTS FOR ''',user,'''@''',host,''';') FROM mysql.user
+ 
+-- Crear select para privilegios de columnas
+SELECT CONCAT('GRANT SELECT (', COLUMN_NAME, '), SHOW VIEW ON colegio.', TABLE_NAME, ' to ustest@localhost;')
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_SCHEMA = 'colegio' AND TABLE_NAME = 'alumnos';
+ 
+ 
+-- Crear select para privilegios de tablas
+SELECT CONCAT('GRANT SELECT, SHOW VIEW ON colegio.', TABLE_NAME, ' to ustest@localhost;')
+FROM INFORMATION_SCHEMA.TABLES
+WHERE TABLE_SCHEMA = 'colegio'
+AND TABLE_TYPE = 'BASE TABLE';

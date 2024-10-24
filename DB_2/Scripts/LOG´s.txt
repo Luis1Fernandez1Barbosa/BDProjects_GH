@@ -1,0 +1,44 @@
+Log´s
+--------------------------
+Log de Error
+-------------------------
+>show variables like '%dir%'
+>show variables like '%error%' 						/archivo "log_error"
+									//cmd admin
+>set log_error = C:\ruta para copiarlo
+>type C:\ruta de copiado 						//leer archivo
+
+-----------------------------
+Log de consultas
+-----------------------------
+>show variables like '%log_file%'
+>show variables like '%general_log%'
+>set global general_log =1; 							//se activa =1; desactiva=0;
+>set global_log_file = 'usr\local\mysql\data\local_host_2808.log'		//copiar log a ruta
+>show variables like '%log_file%'
+	select table_schema, sum (table_rows) nreg -----------------------
+	from information_schema.tables
+	group by table_schema
+	order by 2 desc					-------------------//registro
+>type local_host_2808.log
+>set global general_log =0; 
+
+-----------------------------------
+Log binario
+----------------------------------
+>show variables like '%log_bin%'			//"_index" rutas de los binlog.00001
+			//contenido en ruta "...\mysql\data"
+>type C:\... "binlog.index"
+>type C:\... "binlog.00043"
+
+-------------------------------
+Log Slow						//Mal funcionamiento de BD
+------------------------------
+>show variables like '%slow%'
+>set glboal slow_query_log =1;
+>set global slow_query_log = C:\...slow_localhost_2808.log
+>type C:\... slow_localhost_2808.log			//Muestra el ID del proceso
+			//ver procesos
+>show processlist;
+
+>sho			

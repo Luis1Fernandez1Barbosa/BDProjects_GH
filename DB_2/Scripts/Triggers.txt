@@ -1,0 +1,107 @@
+DELIMITER // 
+DROP TRIGGER IF EXISTS bi_nivel//
+CREATE TRIGGER bi_nivel 
+BEFORE INSERT ON niveles  
+FOR EACH ROW 
+BEGIN    
+	SET NEW.nombre = UPPER(NEW.nombre);        
+	INSERT INTO grados 	
+	SET id_grado = NEW.id_nivel,    
+	nombre = NEW.nombre;
+END //
+ 
+-- bi_cursos
+delimiter //
+DROP TRIGGER  IF EXISTS bi_cursos //
+ 
+CREATE TRIGGER bi_cursos
+BEFORE INSERT ON cursos
+FOR EACH ROW
+BEGIN
+    if(left(NEW.nombre, 5) <> 'CURSO') then
+        set new.nombre = concat('curso ', new.nombre);
+    end if;
+    set new.nombre = upper(new.nombre);
+    if(NEW.ffin <= NEW.finicio) then
+        SIGNAL SQLSTATE'45000'
+        set  MESSAGE_TEXT = 'Fecha final fuera de rango';
+    end if;
+END; //
+ 
+DELIMITER ;
+ 
+insert into cursos values
+('C015', 'escolar 2020-2021', '2020-2021', '2020-07-31 00:00:00', '2019-07-30 00:00:00');
+ 
+-- bitacora
+drop table if exists bitacora;
+create table bitacora(
+    id int not null auto_increment primary key,
+    fecha datetime not null,
+    usuario varchar(50) not null,
+    tabla varchar(50) not null,
+    accion text null
+);
+ 
+-- insert
+insert into cursos values
+('C001','CURSO ESCOLAR 2015-2016','2015-2016','2015-08-22 00:00:00','2016-07-06 00:00:00'),
+('C002','CURSO ESCOLAR 2016-2017','2016-2017','2016-08-01 00:00:00','2017-07-29 00:00:00'),
+('C012','CURSO ESCOLAR 2017-2018','2017-2018','2017-07-30 00:00:00','2018-07-30 00:00:00'),
+('C013','CURSO ESCOLAR 2018-2019','2018-2019','2018-07-31 00:00:00','2019-07-30 00:00:00'),
+('C014','CURSO ESCOLAR 2019-2020','2019-2020','2019-07-31 00:00:00','2020-07-30 00:00:00'),
+('C015','CURSO ESCOLAR 2020-2021','2020-2021','2020-07-31 00:00:00','2021-07-30 00:00:00');
+ 
+-- bu_cursos
+delimiter //
+DROP TRIGGER  IF EXISTS bu_cursos //
+ 
+CREATE TRIGGER bu_cursos
+BEFORE UPDATE ON cursos
+FOR EACH ROW
+BEGIN
+    declare caso varchar(10) default 'caso 0';
+    if(new.ffin = old.ffin) then
+        set new.ffin = date_add(old.ffin, interval 1 hour);
+        set caso = 'caso 1';
+    end if;
+    if(new.ffin < old.ffin) then
+        set new.ffin = date_add(old.ffin, interval 1 year);
+        set caso = 'caso 2';
+    end if;
+ 
+    IF(NEW.ffin <= NEW.finicio) THEN
+        SET NEW.ffin = DATE_ADD(NEW.finicio, INTERVAL 6 MONTH);
+        SET caso = 'caso 3';
+    END IF;
+ 
+    INSERT INTO bitacora VALUES 
+    (null, sysdate(), user(), 'cursos', 
+    JSON_OBJECT('accion','UPDATE','id',old.id_curso, 'nombre',old.nombre , 'abreviatura',old.abreviatura, 
+    'finicio', old.finicio, 'ffin', old.ffin, 'id_new',new.id_curso, 'nombre_new',new.nombre , 'abreviatura_new',new.abreviatura, 
+    'finicio_new',new.finicio, 'ffin_new',new.ffin, 'caso', caso));
+END; //
+ 
+DELIMITER ;
+ 
+ 
+update cursos set finicio = '2019-01-01 00:00:00', ffin = '2020-07-30 00:00:00' where id_curso = 'C014';
+update cursos set finicio = '2020-01-01 00:00:00', ffin = '2020-07-30 00:00:00' where id_curso = 'C015';
+update cursos set finicio = '2019-01-01 00:00:00', ffin = '2018-07-30 00:00:00' where id_curso = 'C013';
+ 
+
+
+-- -------------------------------------------------------
+use colegio2808;
+select * from cursos;
+
+DELIMITER // 
+DROP TRIGGER IF EXISTS bi_cursos//
+CREATE TRIGGER bi_cursos
+BEFORE INSERT ON cursos
+FOR EACH ROW 
+BEGIN 
+	if(left(NEW.nombre, 5) <> 'CURSO') then 
+    set new.curso = concat('curso', new.curso);
+    end if;  
+END //

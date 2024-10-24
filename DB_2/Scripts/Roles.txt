@@ -1,0 +1,38 @@
+ROLES
+***************************************
+----------------------------------------------------------
+select user, host from mysql.user; -- Listar usuarios 
+
+drop user 'ustest'@'localhost'; -- Eliminar usuario 
+CREATE USER 'ustest'@'localhost' IDENTIFIED BY 'milaneso'; -- Creando usuario 
+
+create role 'roletest'@'host'; -- Creamos un rol, con este no nos podemos conectar, solo asignar privilegios 
+select * from mysql.user; -- Ver usuarios y valores 
+
+create role 'developerapp', 'readapp', 'writeapp'; -- Creando roles 
+grant all on colegio2808.* to 'developerapp'; -- Dandole todos los privilegios sobre la bd colegio2808 
+show grants for developerapp; -- Mostrando los privilegios 
+
+grant insert, update, delete on colegio2808.* to writeapp; -- Dandole privilegios de actualizar, borrar e insertar a writeapp
+grant select on colegio2808.* to readapp; -- Dandole privilegios de solo lectura 
+
+show grants for developerapp; 
+show grants for readapp; 
+show grants for writeapp; 
+
+show grants for ustest@localhost;
+
+grant readapp to ustest@localhost; -- Asignandole el rol
+
+-*----------------------------------------------------------
+
+En otro usuario 'ustest' NO en root: 
+
+show databases; -- Mostrando bd 
+
+set role readapp; -- Utilizando un rol 
+select user(), current_role(); -- Mostrando el rol 
+
+use colegio2808; -- Ya puedo usar la bd porque estoy en el rol 
+show tables; -- Puedo ver las tablas 
+select * from niveles;

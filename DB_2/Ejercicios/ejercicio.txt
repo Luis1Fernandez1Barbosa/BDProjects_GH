@@ -1,0 +1,9 @@
+crear un usuario admin con privilegios totales en las bases de datos colegio, escuela
+- privilegios de dml solo en lso campos nombre de las tablas nivel, grado y alumno
+- solo privilegios ddl en concuerrencia
+- solo una conexion permitida
+- solo permite updates x hora
+- solo permite 150 querys x hora
+* bloquear usuario
+* cambiar password
+* los privilegios dml son asignados con rol

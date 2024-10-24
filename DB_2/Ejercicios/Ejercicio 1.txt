@@ -1,0 +1,27 @@
+-- Ejercicio 1 
+mysql -h 127.0.0.1 -uroot -pLAFB2000
+show databases;
+drop database if exists bd_default;
+-- Cracion de BD
+mysql -h 127.0.0.1 -uroot -pLAFB2000 < C:\Users\ptdfg\Downloads\Proyecto_BDII\bd_default.sql
+
+use bd_default
+show tables;
+
+-- Respaldo
+mysqldump -h 127.0.0.1 -uroot -pLAFB2000 bd_default > C:\Users\ptdfg\Downloads\Proyecto_BDII\bd_default_2.0.sql
+mysqldump -h 127.0.0.1 -uroot -pLAFB2000 bd_default > C:\Users\ptdfg\Downloads\Proyecto_BDII\bd_default_2.0_%date:\=%_%time:~0,2%-%time:~3,2%-%time:~6,2%.sql
+
+
+
+
+
+-- ------------------------------------------------------------------------
+select * from mysql.user;
+
+use credito;
+select * from consumo;
+select sum(importe) from consumo;
+select * from consumo where importe >100;
+
+show processlist;

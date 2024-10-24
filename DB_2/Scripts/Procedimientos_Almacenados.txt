@@ -1,0 +1,141 @@
+-- IN
+DELIMITER $$
+DROP PROCEDURE IF EXISTS obtenerAlumnosPorEstado $$
+CREATE PROCEDURE obtenerAlumnosPorEstado(IN nombre_estado VARCHAR(255))
+BEGIN
+    SELECT * 
+    FROM alumnos a
+    JOIN (SELECT * FROM estados WHERE estado = nombre_estado) e ON(a.id_estado = e.id_estado);
+END$$
+DELIMITER ;
+ 
+-- OUT
+ 
+DELIMITER $$
+DROP PROCEDURE IF EXISTS contarAlumnosPorEstado $$
+CREATE PROCEDURE contarAlumnosPorEstado(
+    IN nombre_estado VARCHAR(25),
+    OUT numero INT)
+BEGIN
+    SET numero = (SELECT count(clave_alu) FROM alumnos a
+    JOIN (SELECT * FROM estados WHERE estado = nombre_estado) e ON(a.id_estado = e.id_estado));
+END$$
+DELIMITER ;
+ 
+-- IN OUT
+delimiter $$
+DROP PROCEDURE IF EXISTS pagos_alumnos $$
+CREATE PROCEDURE pagos_alumnos(IN vclave_alu VARCHAR(20), OUT pagos_count INT, OUT pagos_sum DECIMAL(10,2))
+    READS SQL DATA
+BEGIN
+     SELECT distinct id_curso
+     FROM pagos
+     WHERE clave_alu = vclave_alu;
+ 
+     SELECT COUNT(*), SUM(pago)
+     FROM pagos
+     WHERE clave_alu = vclave_alu
+     AND id_curso = id_curso
+     INTO pagos_count, pagos_sum;
+END $$
+delimiter ;
+ 
+-- IF-THEN-ELSE
+DELIMITER $$
+DROP PROCEDURE IF EXISTS obtenerNivelAlumno $$
+CREATE PROCEDURE obtenerNivelAlumno(IN  p_clave_alu varchar(25), 
+    OUT p_nivel_alumno  varchar(10), OUT tpago DECIMAL(15, 2))
+BEGIN
+    SELECT IFNULL(SUM(pago),0) INTO tpago FROM pagos WHERE clave_alu = p_clave_alu;
+    IF tpago > 30000 THEN
+        SET p_nivel_alumno = 'PLATINO';
+    ELSEIF (tpago <= 30000 AND tpago >= 20000) THEN
+        SET p_nivel_alumno = 'ORO';
+    ELSEIF (tpago > 0 AND tpago < 20000) THEN
+        SET p_nivel_alumno = 'PLATA';
+    ELSE
+        SET p_nivel_alumno = 'SIN NIVEL';
+    END IF;
+END $$
+DELIMITER  ;
+ 
+-- LOOP
+DELIMITER $$
+DROP PROCEDURE IF EXISTS probarLoop $$
+CREATE procedure probarLoop(IN limite integer)
+   label:BEGIN
+      DECLARE val INT ;
+      DECLARE result VARCHAR(255);
+      SET val =1;
+      SET result = '';
+         loop_label: LOOP
+         IF val > limite THEN 
+            LEAVE loop_label;
+         END IF;
+         SET result = CONCAT(result,val,',');
+         SET val = val + 1;
+         ITERATE loop_label;
+      END LOOP;
+      SELECT result;
+END$$
+DELIMITER ;
+ 
+-- WHILE
+DELIMITER $$ 
+DROP PROCEDURE IF EXISTS probarWhile $$ 
+CREATE PROCEDURE probarWhile() 
+BEGIN 
+DECLARE x  INT; 
+DECLARE str  VARCHAR(255);  
+SET x = 1; 
+SET str =  '';  
+WHILE x  <= 5 DO 
+    SET  str = CONCAT(str,x,','); 
+    SET  x = x + 1;  
+END WHILE; 
+SELECT str; 
+END $$
+DELIMITER ;
+ 
+-- Operaciones en SP
+DELIMITER $$
+DROP PROCEDURE IF EXISTS insertarCalificacion $$
+CREATE PROCEDURE insertarCalificacion(
+  IN p_clave_alu VARCHAR(20),
+  IN p_id_curso VARCHAR(5),
+  IN p_fecha DATE
+)
+BEGIN
+  DECLARE EXIT HANDLER FOR SQLEXCEPTION, SQLWARNING
+  BEGIN
+    ROLLBACK;
+    RESIGNAL;
+  END;  
+ 
+  IF NOT EXISTS(SELECT * FROM evaluaciones WHERE clave_alu = p_clave_alu AND id_curso = p_id_curso) THEN
+    SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'No existen calificaciones para el alumno - curso';
+  END IF;  
+END $$
+DELIMITER ;
+ 
+ 
+-- CONSULTAS DINAMICAS
+DELIMITER $$
+DROP PROCEDURE IF EXISTS consultaDinamica $$
+CREATE PROCEDURE consultaDinamica(
+    IN tabla  varchar(20), 
+    IN sexo varchar(1), 
+    IN sortby INT)
+BEGIN
+    SET @query = CONCAT(
+        'SELECT ',
+        'CONCAT_WS(\' \', ',
+        IF(tabla='alumnos', 'ap_paterno, ap_materno, nombre', 'apellido_p, apellido_m, nombres') , ') nombre, curp, sexo, email',
+        ' FROM ', IF(tabla='alumnos', 'alumnos', 'profesores'),    
+        IF(sexo in('F', 'M'), CONCAT(' WHERE sexo = \'', sexo, '\''), ''),
+       ' ORDER BY nombre ', IF(sortby=0, 'ASC', 'DESC'));
+    PREPARE stmt FROM @query;
+    EXECUTE stmt;
+    DEALLOCATE PREPARE stmt;
+END$$
+DELIMITER ; 

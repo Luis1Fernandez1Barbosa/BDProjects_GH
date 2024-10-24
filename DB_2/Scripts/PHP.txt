@@ -1,0 +1,28 @@
+<?php
+// https://extendsclass.com/php.html
+$dbms = 'mysql';
+$host = '';
+$user = '';
+$pass = '';
+$db = '';
+ 
+try {
+    $conn = new PDO("{$dbms}:host={$host};dbname={$db};charset=utf8", $user, $pass);
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    $conn->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);
+    echo "Base de datos {$db} Connectada <br>";
+}catch(PDOException $e){
+   echo $e->getMessage();
+}
+ 
+$sql = "SELECT * FROM {$db}.niveles";
+echo "$sql <br>";
+$query = $conn->query($sql);
+$arr = $query->fetchAll();
+$strHTML = "<ul>";
+foreach($arr as $k => $v) {
+    $strHTML .= "<li>ID: {$v['id_nivel']} Nivel: {$v['nombre']} </li>";
+}
+$strHTML .= "</ul>";
+echo $strHTML;
+?>

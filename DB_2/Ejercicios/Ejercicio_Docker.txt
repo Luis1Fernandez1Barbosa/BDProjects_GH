@@ -1,0 +1,16 @@
+Ejercicio RQLite
+1. Crear un contenedor con el siguiente nombre rqlite[grupo][iniciales]
+2. Desde POSTMAN crear una tabla llamada productos con los campos id, producto y precio
+3. Desde POSTMAN insertar 5 datos en la tabla productos
+4. Agregar un nodo con id 2[grupo][iniciales]
+5. Conectarse a RQLite al nodo 2
+6. Listar las tablas
+7. Listar el contenido de la tabla productos
+8. Insertar 5 datos en la tabla productos
+9. Desde POSTMAN ver el contenido de la tabla productos en formato asociativo
+10. Desde POSTMAN descargar un respaldo de la BD
+11. Desde POSTMAN cargar 5 nuevos datos al BD usando load
+12. Desde POSTMAN listar las tablas en la BD
+13. Eliminar el nodo 2[grupo][iniciales]
+14. Detener el cluster
+15. Captura de docker desktop con al menos dos contenedores

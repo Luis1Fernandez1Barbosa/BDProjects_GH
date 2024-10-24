@@ -1,0 +1,66 @@
+use cubo;
+select * from sales;
+
+select year, country, category, count(*) nreg, SUM(profit) AS profit
+FROM sales
+group by year, country, category 
+ORDER BY year;
+
+-- RollUP lo vuelve un cubo 
+-- Despliega todos los detalles y una linea adicional donde esta agrupado por un solo parametro
+select year, count(*) nreg, SUM(profit) AS profit
+FROM sales
+GROUP BY year with rollup;
+
+-- select year, count (*) nreg, SUM(profit) AS profit
+-- FROM sales
+-- group by CUBE(year);
+
+select year, country, count(*) nreg, SUM(profit) AS profit
+FROM sales
+GROUP BY year, country with rollup;
+
+select year, country, category, count(*) nreg, SUM(profit) AS profit
+FROM sales
+GROUP BY year, country, category with rollup;
+
+select year, country, category, product, count(*) nreg, SUM(profit) AS profit
+FROM sales
+GROUP BY year, country, category, product with rollup;
+
+
+select year, country, COUNT(*) nreg, SUM(profit) AS profit, MAX(profit) max, MIN(profit) min, AVG(profit) prom
+FROM sales
+GROUP BY year, country with rollup;
+
+-- GROUPING indica si esta agrupado dentro del cubo (bandera)
+select year, country, COUNT(*) nreg, SUM(profit) AS profit, MAX(profit) max, MIN(profit) min, AVG(profit) prom, 
+grouping(year)
+FROM sales
+GROUP BY year, country with rollup;
+
+-- having
+select year, country, COUNT(*) nreg, SUM(profit) AS profit
+FROM sales
+GROUP BY year, country with rollup
+having grouping (year, country) = 1; -- ganancia total por año
+
+-- ¿Cuantas transacciones tenemos por pais?
+select country, COUNT(*) nreg
+FROM sales
+GROUP BY country with rollup;
+
+-- ¿Que producto tiene mayor ganancia?
+select product, max(profit) as profit 
+from sales
+group by product with rollup
+order by profit DESC 
+limit 1;
+
+-- Ganancia total por pais y categoria
+select country, category, count(*) nreg, sum(profit)
+as profit, MAX(profit) max, MIN(profit) min, AVG(profit) prom, 
+GROUPING(country), GROUPING(country, category)
+from sales
+group by country, category with rollup
+having grouping(country, category <1;

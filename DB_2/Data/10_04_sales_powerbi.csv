@@ -1,0 +1,1953 @@
+id,year,country,product,category,profit
+1,2019,EU,"SANFORD Liquid Accent Tank-Style Highlighters","Office Supplies",4.56
+2,2020,CA,"Executive Impressions 12 Wall Clock",Furniture,4390.37
+3,2016,CN,"DAX Solid Wood Frames",Furniture,-53.81
+4,2018,BZ,"Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock",Furniture,803.47
+5,2023,BZ,"Newell 321","Office Supplies",-24.03
+6,2016,CA,"Newell 321","Office Supplies",-37.03
+7,2016,CA,"Binding Machine Supplies","Office Supplies",-0.71
+8,2020,CA,"Grip Seal Envelopes","Office Supplies",-59.82
+9,2021,MX,"Tyvek  Top-Opening Peel Seel  Envelopes Gray","Office Supplies",261.88
+10,2021,CA,"Staples SlimLine Pencil Sharpener","Office Supplies",2.63
+11,2016,CA,"StarTAC 7797",Technology,652.73
+12,2021,MX,"DAX Solid Wood Frames",Furniture,314.48
+13,2018,CA,"Hewlett Packard 6S Scientific Calculator",Technology,-114.64
+14,2017,CN,"DAX Solid Wood Frames",Furniture,384.38
+15,2020,CN,"Advantus Plastic Paper Clips","Office Supplies",-17.49
+16,2018,EU,"Hewlett Packard 6S Scientific Calculator",Technology,-114.64
+17,2022,CN,"Xerox 1904","Office Supplies",-28.30
+18,2017,CN,"Newell 321","Office Supplies",-5.31
+19,2019,EU,"Eldon Image Series Black Desk Accessories",Furniture,8.89
+20,2016,BZ,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",144.69
+21,2019,CA,"Canon P1-DHIII Palm Printing Calculator",Technology,-35.88
+22,2023,CA,"StarTAC 7797",Technology,210.00
+23,2017,CA,TimeportP7382,Technology,3568.10
+24,2016,CN,"Binding Machine Supplies","Office Supplies",-84.44
+25,2018,BZ,"Newell 321","Office Supplies",24.31
+26,2020,EU,"Dual Level Single-Width Filing Carts",Technology,25.91
+27,2020,BZ,"6 Cubicle Wall Clock Black",Technology,162.67
+28,2022,EU,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,-6923.60
+29,2018,MX,"Xerox 1904","Office Supplies",-67.49
+30,2016,EU,"Binding Machine Supplies","Office Supplies",19.63
+31,2021,MX,"Newell 321","Office Supplies",-1.65
+32,2016,CN,"Xerox 1904","Office Supplies",2.14
+33,2022,CN,"Dual Level Single-Width Filing Carts","Office Supplies",349.41
+34,2018,CA,"Avery 501","Office Supplies",-37.53
+35,2017,CA,5170i,Technology,101.49
+36,2020,CN,"Dual Level Single-Width Filing Carts","Office Supplies",845.66
+37,2016,BZ,"Hon Valutask Swivel Chairs",Furniture,-308.93
+38,2016,EU,"Hon Valutask Swivel Chairs",Furniture,-1679.76
+39,2019,CA,"Dual Level Single-Width Filing Carts","Office Supplies",575.40
+40,2015,BZ,"Global High-Back Leather Tilter Burgundy",Furniture,-2426.55
+41,2022,EU,"Global High-Back Leather Tilter Burgundy",Furniture,-2426.55
+42,2018,EU,"Hon Valutask Swivel Chairs",Furniture,-715.78
+43,2019,EU,"6 Cubicle Wall Clock Black",Furniture,-144.56
+44,2020,EU,"Binding Machine Supplies","Office Supplies",7402.32
+45,2015,CA,"Fellowes Super Stor/Drawer Files","Office Supplies",1892.42
+46,2017,CN,"Avery 501","Office Supplies",28.86
+47,2020,EU,"Hon Valutask Swivel Chairs",Furniture,173.48
+48,2018,CN,"Prismacolor Color Pencil Set","Office Supplies",117.85
+49,2022,BZ,"Array Memo Cubes","Office Supplies",34.01
+50,2021,CN,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,2031.51
+51,2019,MX,"Dual Level Single-Width Filing Carts","Office Supplies",-190.68
+52,2017,CA,"Xerox 1904","Office Supplies",325.40
+53,2017,BZ,"Acme Elite Stainless Steel Scissors","Office Supplies",22.82
+54,2018,MX,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,116.10
+55,2017,BZ,"Belkin 105-Key Black Keyboard",Technology,-87.96
+56,2020,EU,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,255.42
+57,2016,MX,5170i,Technology,685.61
+58,2020,CN,"Belkin 105-Key Black Keyboard",Technology,-16.20
+59,2020,MX,"Dual Level Single-Width Filing Carts",Furniture,2023.75
+60,2022,EU,"Belkin 105-Key Black Keyboard",Technology,-20.25
+61,2017,CN,"Avery 501","Office Supplies",-3.38
+62,2018,MX,"Dual Level Single-Width Filing Carts",Furniture,1684.48
+63,2021,CN,"Avery 501","Office Supplies",-2.70
+64,2019,CA,"DIXON Oriole Pencils","Office Supplies",18.66
+65,2020,EU,"Avery 501","Office Supplies",40.25
+66,2019,MX,"EcoTones Memo Sheets","Office Supplies",14.09
+67,2016,BZ,"Fuji Slim Jewel Case CD-R",Technology,-55.84
+68,2021,BZ,"DIXON Oriole Pencils","Office Supplies",9.82
+69,2019,MX,"Avery 501","Office Supplies",112.06
+70,2019,MX,"EcoTones Memo Sheets","Office Supplies",16.79
+71,2021,CA,"Fuji Slim Jewel Case CD-R",Technology,-55.84
+72,2018,BZ,"Avery 501","Office Supplies",41.30
+73,2019,CA,"6 Cubicle Wall Clock Black",Technology,1179.02
+74,2022,CA,"Acme Elite Stainless Steel Scissors","Office Supplies",105.68
+75,2016,BZ,"Eldon Image Series Black Desk Accessories",Furniture,-37.39
+76,2018,MX,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",149.89
+77,2018,BZ,"Xerox 1904","Office Supplies",3.04
+78,2019,BZ,"Fiskars Softgrip Scissors","Office Supplies",2.71
+79,2022,CA,"Xerox 1904","Office Supplies",91.96
+80,2015,BZ,"Fiskars Softgrip Scissors","Office Supplies",-2.54
+81,2015,EU,"Dual Level Single-Width Filing Carts","Office Supplies",2.49
+82,2019,EU,"Laminate Occasional Tables",Furniture,-634.73
+83,2022,CN,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,133.58
+84,2019,MX,"Global High-Back Leather Tilter Burgundy",Furniture,251.41
+85,2019,BZ,"PC Concepts 116 Key Quantum 3000 Keyboard",Technology,-20.26
+86,2017,CA,"Coloredge Poster Frame","Office Supplies",13.90
+87,2020,EU,"Newell 321","Office Supplies",-172.72
+88,2019,CN,"Eldon Image Series Black Desk Accessories",Furniture,-40.68
+89,2022,BZ,"StarTAC 7797",Technology,97.86
+90,2016,CA,"MicroTAC 650",Technology,360.24
+91,2021,CN,"T28 WORLD",Technology,713.88
+92,2020,BZ,"Belkin 105-Key Black Keyboard","Office Supplies",-18.64
+93,2017,CA,"Fellowes Super Stor/Drawer Files",Furniture,-111.40
+94,2019,BZ,"Xerox 1904","Office Supplies",-77.03
+95,2022,CA,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,28.51
+96,2016,BZ,"Fellowes Super Stor/Drawer Files",Technology,280.27
+97,2021,MX,"Polycom ViaVideo Desktop Video Communications Unit",Technology,-112.43
+98,2017,BZ,"Staples SlimLine Pencil Sharpener","Office Supplies",24.92
+99,2017,CN,"Staples SlimLine Pencil Sharpener","Office Supplies",-2.91
+100,2020,EU,"Zoom V.92 USB External Faxmodem",Technology,-76.89
+101,2021,EU,"Newell 321","Office Supplies",-35.75
+102,2017,CN,"Zoom V.92 USB External Faxmodem",Technology,-76.89
+103,2021,CN,"Riverleaf Stik-Withit Designer Note Cubes","Office Supplies",152.66
+104,2019,EU,"Newell 321","Office Supplies",7.15
+105,2016,CA,"Avery 501","Office Supplies",113.65
+106,2019,EU,"APC 7 Outlet Network SurgeArrest Surge Protector","Office Supplies",-35.47
+107,2020,BZ,"Binding Machine Supplies","Office Supplies",14.47
+108,2019,CA,"Fellowes Super Stor/Drawer Files",Technology,-99.99
+109,2019,BZ,"StarTAC 7797",Technology,1348.60
+110,2021,CA,"Panasonic KX-P2130 Dot Matrix Printer",Technology,-560.81
+111,2019,MX,"Binding Machine Supplies","Office Supplies",-66.04
+112,2016,CN,"Xerox 1904","Office Supplies",-105.69
+113,2018,BZ,"Acco Hot Clips Clips to Go","Office Supplies",15.66
+114,2021,EU,"Fellowes Super Stor/Drawer Files","Office Supplies",1167.16
+115,2023,CA,"Fellowes Super Stor/Drawer Files","Office Supplies",1014.92
+116,2021,EU,"Xerox 1904","Office Supplies",1.73
+117,2016,EU,"Imation DVD-RAM discs",Technology,-133.70
+118,2016,EU,"Dual Level Single-Width Filing Carts","Office Supplies",-66.62
+119,2016,EU,"3M Organizer Strips","Office Supplies",-21.49
+120,2017,CA,"Sharp 1540cs Digital Laser Copier",Furniture,44.68
+121,2018,BZ,"Newell 321","Office Supplies",23.60
+122,2019,BZ,"Riverleaf Stik-Withit Designer Note Cubes","Office Supplies",7.59
+123,2016,EU,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,-107.99
+124,2021,CN,"Acme Elite Stainless Steel Scissors","Office Supplies",-36.25
+125,2015,BZ,"Hewlett Packard 6S Scientific Calculator",Technology,-102.51
+126,2015,CN,"Global High-Back Leather Tilter Burgundy",Furniture,36.35
+127,2017,EU,"Binding Machine Supplies","Office Supplies",-243.24
+128,2022,CA,Accessory36,Furniture,-53.62
+129,2018,MX,"Sanyo 2.5 Cubic Foot Mid-Size Office Refrigerators","Office Supplies",1103.97
+130,2019,BZ,"Binding Machine Supplies","Office Supplies",136.34
+131,2021,MX,"Dual Level Single-Width Filing Carts",Technology,-12.46
+132,2017,BZ,"Eldon Image Series Black Desk Accessories","Office Supplies",-175.86
+133,2018,MX,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,3294.83
+134,2018,CN,"Xerox 1904","Office Supplies",35.09
+135,2018,CA,"Belkin 105-Key Black Keyboard",Furniture,785.63
+136,2016,CA,"Binding Machine Supplies","Office Supplies",-256.52
+137,2015,BZ,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,398.36
+138,2015,CN,"BPI Conference Tables",Furniture,-101.19
+139,2019,BZ,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,-3.33
+140,2021,CA,"Avery 501","Office Supplies",-145.08
+141,2015,BZ,"DIXON Oriole Pencils","Office Supplies",1.11
+142,2022,BZ,"StarTAC 7797",Technology,1061.38
+143,2021,MX,"Global High-Back Leather Tilter Burgundy",Furniture,-53.75
+144,2019,EU,"Acme Elite Stainless Steel Scissors","Office Supplies",0.68
+145,2020,CA,"Maxell DVD-RAM Discs",Technology,-127.01
+146,2018,CN,"Newell 321","Office Supplies",5.75
+147,2016,CN,"Hon Valutask Swivel Chairs",Furniture,-2177.99
+148,2017,CA,"Keytronic 105-Key Spanish Keyboard",Technology,326.25
+149,2017,CA,"Xerox 1904","Office Supplies",8.93
+150,2021,CN,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",229.64
+151,2015,CN,"Staples SlimLine Pencil Sharpener","Office Supplies",-22.48
+152,2019,EU,"Executive Impressions 12 Wall Clock",Furniture,78.98
+153,2022,EU,"Tyvek  Top-Opening Peel Seel  Envelopes Gray","Office Supplies",144.29
+154,2021,CN,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,888.15
+155,2017,CA,"Xerox 1904","Office Supplies",-46.01
+156,2021,CA,"Hewlett Packard 6S Scientific Calculator",Technology,128.03
+157,2017,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",-29.90
+158,2015,BZ,"Executive Impressions 12 Wall Clock",Furniture,52.92
+159,2023,EU,"Tyvek  Top-Opening Peel Seel  Envelopes Gray","Office Supplies",72.19
+160,2021,CN,"Xerox 1904","Office Supplies",-122.37
+161,2016,EU,"Recycled Premium Regency Composition Covers","Office Supplies",-51.75
+162,2020,CA,"Brother DCP1000 Digital 3 in 1 Multifunction Machine","Office Supplies",-1.00
+163,2017,EU,Accessory36,Technology,-221.25
+164,2020,EU,"Newell 321","Office Supplies",-11.57
+165,2020,BZ,"Acco Hot Clips Clips to Go","Office Supplies",-61.87
+166,2018,CN,"O Sullivan Elevations Bookcase Cherry Finish",Furniture,-530.24
+167,2021,EU,"Dual Level Single-Width Filing Carts",Technology,132.69
+168,2016,MX,"MicroTAC 650",Technology,496.89
+169,2022,BZ,"Imation DVD-RAM discs",Technology,-135.16
+170,2015,CA,"Staples SlimLine Pencil Sharpener",Technology,15.90
+171,2018,BZ,Accessory36,Technology,855.99
+172,2017,CN,"Staples SlimLine Pencil Sharpener",Technology,10.74
+173,2021,BZ,"High Speed Automatic Electric Letter Opener","Office Supplies",-1759.58
+174,2021,CA,"Belkin 105-Key Black Keyboard",Technology,-72.23
+175,2015,CA,"Eldon Image Series Black Desk Accessories",Furniture,-27.16
+176,2021,BZ,"Xerox 1904","Office Supplies",-52.34
+177,2018,CA,"Decoflex Hanging Personal Folder File","Office Supplies",-119.94
+178,2019,EU,"Staples SlimLine Pencil Sharpener",Technology,9.93
+179,2020,EU,"Belkin 105-Key Black Keyboard",Technology,-29.17
+180,2020,BZ,"Hon Valutask Swivel Chairs",Furniture,-715.78
+181,2018,CN,"Acco Hot Clips Clips to Go",Technology,-22.82
+182,2016,CA,"SAFCO Arco Folding Chair",Furniture,2639.47
+183,2018,CA,"Eldon Image Series Black Desk Accessories",Furniture,-5.20
+184,2022,MX,"Hoover WindTunnel Plus Canister Vacuum","Office Supplies",-83.65
+185,2018,EU,"Dual Level Single-Width Filing Carts",Furniture,24.39
+186,2015,EU,"Avery 501","Office Supplies",-4.67
+187,2020,BZ,"Anderson Hickey Conga Table Tops & Accessories",Furniture,11.65
+188,2015,CA,"Avery 501","Office Supplies",0.70
+189,2015,CN,"Acme Elite Stainless Steel Scissors","Office Supplies",5.86
+190,2021,BZ,"GE 4 Foot Flourescent Tube 40 Watt",Furniture,1916.68
+191,2019,BZ,"Acme Elite Stainless Steel Scissors","Office Supplies",10.50
+192,2020,EU,"GE 4 Foot Flourescent Tube 40 Watt",Furniture,993.83
+193,2018,BZ,"Dual Level Single-Width Filing Carts",Technology,-165.45
+194,2017,CN,"Xerox 1904","Office Supplies",-141.12
+195,2020,MX,"Belkin 105-Key Black Keyboard",Furniture,1074.44
+196,2021,CN,"Maxell DVD-RAM Discs",Technology,-627.82
+197,2017,CN,"Dual Level Single-Width Filing Carts","Office Supplies",411.52
+198,2019,CA,"Executive Impressions 12 Wall Clock",Furniture,211.23
+199,2017,CA,"1726 Digital Answering Machine",Technology,49.79
+200,2023,CN,"3M Organizer Strips","Office Supplies",-132.63
+201,2016,BZ,"O Sullivan Elevations Bookcase Cherry Finish",Furniture,-163.63
+202,2023,MX,"Xerox 1904","Office Supplies",-63.87
+203,2015,CA,Accessory36,Technology,-175.18
+204,2015,CN,"O Sullivan Elevations Bookcase Cherry Finish",Furniture,-224.95
+205,2019,EU,"Xerox 1904","Office Supplies",196.80
+206,2018,MX,"3M Organizer Strips","Office Supplies",250.04
+207,2021,CA,"Decoflex Hanging Personal Folder File","Office Supplies",-539.59
+208,2018,CN,"Binding Machine Supplies","Office Supplies",-82.82
+209,2017,CA,8860,Technology,107.08
+210,2019,BZ,"Binding Machine Supplies","Office Supplies",-27.28
+211,2018,CA,"Xerox 1904","Office Supplies",-51.56
+212,2016,CA,"T28 WORLD",Technology,-263.57
+213,2016,EU,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,1273.21
+214,2019,EU,"Fellowes Super Stor/Drawer Files",Technology,-159.68
+215,2015,BZ,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,27.91
+216,2018,CA,"Fiskars Softgrip Scissors","Office Supplies",-81.77
+217,2018,CN,"Logitech Access Keyboard",Technology,-19.21
+218,2015,CN,"Xerox 1904","Office Supplies",7.44
+219,2017,BZ,"Laminate Occasional Tables",Furniture,-372.49
+220,2016,MX,"Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock",Furniture,1372.63
+221,2020,EU,"Rediform S.O.S. Phone Message Books","Office Supplies",50.20
+222,2015,BZ,"Binding Machine Supplies","Office Supplies",236.24
+223,2019,EU,"Dual Level Single-Width Filing Carts","Office Supplies",943.00
+224,2016,CN,"Polycom ViaVideo Desktop Video Communications Unit",Technology,-2531.48
+225,2016,CA,"Dual Level Single-Width Filing Carts",Technology,163.16
+226,2021,EU,Accessory36,Technology,-302.23
+227,2022,CA,"Dual Level Single-Width Filing Carts","Office Supplies",90.62
+228,2018,BZ,"StarTAC 7797",Technology,427.12
+229,2019,MX,"Dual Level Single-Width Filing Carts",Furniture,86.44
+230,2016,CN,"1726 Digital Answering Machine","Office Supplies",-4.46
+231,2018,CA,"O Sullivan Elevations Bookcase Cherry Finish",Furniture,-512.87
+232,2020,CN,"Newell 321","Office Supplies",-3.78
+233,2023,MX,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,-82.90
+234,2016,MX,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,1268.81
+235,2021,CN,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,-53.30
+236,2015,BZ,"Binding Machine Supplies","Office Supplies",299.67
+237,2022,MX,"Binding Machine Supplies","Office Supplies",-15.46
+238,2020,CN,"Avery 501","Office Supplies",16.05
+239,2019,CA,Accessory36,Technology,-235.90
+240,2019,CA,"Coloredge Poster Frame",Furniture,-41.32
+241,2022,CA,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",7.90
+242,2020,CN,"Economy Rollaway Files","Office Supplies",521.69
+243,2020,EU,"Panasonic KX-P2130 Dot Matrix Printer",Technology,496.80
+244,2019,CA,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,-556.81
+245,2015,BZ,"Holmes Odor Grabber","Office Supplies",-27.74
+246,2015,BZ,"Eldon Image Series Black Desk Accessories",Furniture,-128.69
+247,2020,CN,"Xerox 1904","Office Supplies",23.20
+248,2022,CN,"Motorola SB4200 Cable Modem",Technology,-568.54
+249,2022,MX,"Motorola SB4200 Cable Modem",Technology,-427.47
+250,2022,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",-18.19
+251,2015,CN,"Binding Machine Supplies","Office Supplies",-24.06
+252,2020,EU,"Canon P1-DHIII Palm Printing Calculator",Technology,2583.56
+253,2018,CA,"Avery 501","Office Supplies",6.05
+254,2015,CA,"Binding Machine Supplies","Office Supplies",-67.06
+255,2016,BZ,"Xerox 1904","Office Supplies",-7.94
+256,2023,EU,Accessory36,Technology,122.29
+257,2022,BZ,"Newell 321","Office Supplies",-2.12
+258,2016,BZ,"Xerox 1904","Office Supplies",-69.07
+259,2016,MX,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,2028.12
+260,2022,MX,"Southworth Structures Collection","Office Supplies",-63.51
+261,2023,MX,"Xerox 1904","Office Supplies",-92.05
+262,2016,EU,"Advantus Plastic Paper Clips","Office Supplies",6.11
+263,2019,BZ,"Imation DVD-RAM discs",Technology,-36.63
+264,2020,EU,"Newell 321","Office Supplies",-2.12
+265,2021,CA,"Xerox 1904","Office Supplies",-35.92
+266,2016,CN,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,3042.18
+267,2016,MX,"Southworth Structures Collection","Office Supplies",-31.76
+268,2017,EU,"Adesso Programmable 142-Key Keyboard",Technology,171.84
+269,2020,CA,"Xerox 1904","Office Supplies",32.94
+270,2017,CN,"Targus USB Numeric Keypad",Technology,131.33
+271,2016,CA,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-282.08
+272,2016,BZ,"SAFCO Folding Chair Trolley",Furniture,140.14
+273,2015,CA,"Xerox 1904","Office Supplies",105.25
+274,2022,MX,"Dual Level Single-Width Filing Carts","Office Supplies",-29.09
+275,2017,CN,"Executive Impressions 12 Wall Clock",Furniture,113.42
+276,2022,CA,"Canon P1-DHIII Palm Printing Calculator",Technology,26.10
+277,2016,CA,"Dual Level Single-Width Filing Carts","Office Supplies",-2.58
+278,2016,BZ,"Belkin 105-Key Black Keyboard",Furniture,2800.12
+279,2015,BZ,"Binding Machine Supplies","Office Supplies",363.55
+280,2021,MX,"Lexmark 4227 Plus Dot Matrix Printer",Technology,-11.54
+281,2021,EU,"Canon P1-DHIII Palm Printing Calculator",Technology,-6.61
+282,2018,EU,"Staples SlimLine Pencil Sharpener","Office Supplies",-15.56
+283,2017,EU,"Xerox 1904","Office Supplies",-108.19
+284,2020,CA,"Binding Machine Supplies","Office Supplies",46.49
+285,2020,BZ,"GE 4 Foot Flourescent Tube 40 Watt","Office Supplies",159.53
+286,2021,CA,Accessory36,Technology,15.37
+287,2018,EU,"Southworth Structures Collection",Technology,5924.11
+288,2017,EU,"DAX Solid Wood Frames",Furniture,39.59
+289,2019,CA,"Binding Machine Supplies","Office Supplies",-66.38
+290,2022,EU,"Newell 321","Office Supplies",-33.34
+291,2022,CN,"Boston 16765 Mini Stand Up Battery Pencil Sharpener",Furniture,-201.28
+292,2018,BZ,"Sharp 1540cs Digital Laser Copier",Technology,4637.41
+293,2018,BZ,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,-239.54
+294,2016,CN,"White GlueTop Scratch Pads","Office Supplies",21.51
+295,2015,EU,"Adams Phone Message Book","Office Supplies",34.07
+296,2018,BZ,"Lexmark 4227 Plus Dot Matrix Printer",Technology,4073.25
+297,2022,BZ,"Xerox 1904","Office Supplies",-179.59
+298,2022,EU,"Belkin 105-Key Black Keyboard",Furniture,-500.38
+299,2023,CA,"Lexmark 4227 Plus Dot Matrix Printer",Technology,6028.41
+300,2016,BZ,"Xerox 1904","Office Supplies",-161.63
+301,2018,CN,"Belkin 105-Key Black Keyboard",Furniture,-250.19
+302,2020,MX,"Adams Phone Message Book","Office Supplies",46.15
+303,2022,BZ,"Fellowes Super Stor/Drawer Files","Office Supplies",-1116.33
+304,2022,MX,"Hon Valutask Swivel Chairs",Furniture,1141.79
+305,2021,EU,"Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge","Office Supplies",-99.57
+306,2020,EU,"Binding Machine Supplies","Office Supplies",224.85
+307,2015,BZ,"Belkin 105-Key Black Keyboard",Technology,-122.13
+308,2019,MX,"Acco Hot Clips Clips to Go","Office Supplies",-12.16
+309,2018,BZ,"Decoflex Hanging Personal Folder File","Office Supplies",-269.08
+310,2019,CN,"Hoover WindTunnel Plus Canister Vacuum","Office Supplies",-566.00
+311,2019,MX,"Multimedia Mailers","Office Supplies",293.14
+312,2021,CN,"Personal Creations Ink Jet Cards and Labels","Office Supplies",-6.61
+313,2020,MX,Accessory36,Technology,-57.54
+314,2018,CA,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-266.22
+315,2021,CA,"Acme Elite Stainless Steel Scissors","Office Supplies",-67.59
+316,2019,EU,"Avery 501","Office Supplies",-239.87
+317,2021,CA,"Newell 321","Office Supplies",-53.44
+318,2017,CA,"9-3/4 Diameter Round Wall Clock",Furniture,-22.12
+319,2015,BZ,"Staples SlimLine Pencil Sharpener",Technology,484.85
+320,2016,BZ,"3M Organizer Strips",Furniture,18.00
+321,2016,EU,"Binding Machine Supplies","Office Supplies",15.27
+322,2021,CN,"Adams Phone Message Book","Office Supplies",26.59
+323,2019,BZ,"Brother DCP1000 Digital 3 in 1 Multifunction Machine",Furniture,-575.35
+324,2019,EU,"Xerox 1904","Office Supplies",-51.64
+325,2016,MX,"Xerox 1904","Office Supplies",-75.44
+326,2019,CA,Accessory36,Technology,-120.93
+327,2021,MX,"Laminate Occasional Tables",Furniture,-1763.75
+328,2017,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",-15.10
+329,2017,EU,"Laminate Occasional Tables",Furniture,-1763.75
+330,2022,CA,"Executive Impressions 12 Wall Clock","Office Supplies",23.54
+331,2018,CN,"Binding Machine Supplies","Office Supplies",-276.11
+332,2017,CN,"Belkin 105-Key Black Keyboard",Technology,-78.13
+333,2021,MX,"Acco Hot Clips Clips to Go","Office Supplies",-64.67
+334,2022,CA,"1726 Digital Answering Machine","Office Supplies",-11.11
+335,2018,CN,"Coloredge Poster Frame",Furniture,107.02
+336,2017,EU,"Adams Phone Message Book","Office Supplies",18.42
+337,2015,CA,"T28 WORLD",Technology,349.47
+338,2017,CN,"Xerox 1904","Office Supplies",-226.35
+339,2016,BZ,Accessory36,Technology,-281.18
+340,2020,CA,"Smead Adjustable Mobile File Trolley with Lockable Top","Office Supplies",6610.20
+341,2022,CN,"Eldon Image Series Black Desk Accessories",Furniture,-103.71
+342,2018,CN,"Binding Machine Supplies","Office Supplies",-124.29
+343,2022,CA,"Rush Hierlooms Collection Rich Wood Bookcases",Furniture,-229.68
+344,2023,CA,"6 Cubicle Wall Clock Black",Technology,288.09
+345,2015,EU,"Keytronic 105-Key Spanish Keyboard",Technology,719.48
+346,2020,BZ,"Chromcraft Rectangular Conference Tables",Furniture,1192.04
+347,2018,CN,"Chromcraft Rectangular Conference Tables",Furniture,1192.04
+348,2019,EU,"Rush Hierlooms Collection Rich Wood Bookcases",Furniture,-229.68
+349,2016,EU,"6 Cubicle Wall Clock Black",Technology,288.09
+350,2020,CA,"Keytronic 105-Key Spanish Keyboard",Technology,1030.51
+351,2019,EU,"Chromcraft Rectangular Conference Tables",Furniture,261.44
+352,2020,EU,"Executive Impressions 12 Wall Clock",Furniture,-10.36
+353,2019,CA,"Staples SlimLine Pencil Sharpener","Office Supplies",106.75
+354,2022,BZ,"Binding Machine Supplies","Office Supplies",-246.93
+355,2016,EU,"Dual Level Single-Width Filing Carts",Furniture,4233.26
+356,2021,EU,"Zoom V.92 USB External Faxmodem",Furniture,102.77
+357,2018,CA,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,-36.67
+358,2017,EU,"Binding Machine Supplies","Office Supplies",20.64
+359,2017,EU,"High Speed Automatic Electric Letter Opener","Office Supplies",-24.20
+360,2023,MX,"Hewlett Packard 6S Scientific Calculator",Technology,-126.06
+361,2020,MX,"DAX Solid Wood Frames",Furniture,10.80
+362,2021,EU,"Executive Impressions 12 Wall Clock",Furniture,-678.50
+363,2021,CA,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,90.76
+364,2016,CN,"Binding Machine Supplies","Office Supplies",-352.81
+365,2015,EU,"Executive Impressions 12 Wall Clock",Furniture,70.03
+366,2016,MX,"Binding Machine Supplies","Office Supplies",-124.28
+367,2015,BZ,"Avery 501","Office Supplies",40.48
+368,2022,EU,"Xerox 1904","Office Supplies",32.86
+369,2022,MX,"Hon Valutask Swivel Chairs",Furniture,-187.22
+370,2021,CN,"Coloredge Poster Frame","Office Supplies",9.59
+371,2015,BZ,R380,Technology,-655.42
+372,2019,MX,"Fellowes Super Stor/Drawer Files","Office Supplies",-7.58
+373,2019,BZ,"Decoflex Hanging Personal Folder File","Office Supplies",-109.70
+374,2022,CA,"Hoover WindTunnel Plus Canister Vacuum","Office Supplies",-19.93
+375,2020,CA,"Binding Machine Supplies","Office Supplies",4568.61
+376,2018,CA,"T28 WORLD",Technology,-258.23
+377,2018,BZ,"Executive Impressions 12 Wall Clock",Furniture,38.06
+378,2018,MX,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-207.28
+379,2019,CA,"Avery 501","Office Supplies",-12.72
+380,2016,BZ,"Bagged Rubber Bands",Technology,-51.42
+381,2021,MX,"Xerox 1904","Office Supplies",-88.60
+382,2023,EU,"Executive Impressions 12 Wall Clock",Furniture,2568.46
+383,2021,MX,"Binding Machine Supplies","Office Supplies",9.49
+384,2022,CA,"Bush Mission Pointe Library",Furniture,-263.65
+385,2015,CN,"Jet-Pak Recycled Peel",Technology,890.18
+386,2018,BZ,"Bush Mission Pointe Library",Furniture,6095.86
+387,2017,MX,"Imation DVD-RAM discs",Technology,-82.83
+388,2020,CA,"Decoflex Hanging Personal Folder File",Furniture,25.04
+389,2023,MX,"Keytronic 105-Key Spanish Keyboard",Technology,-580.32
+390,2022,EU,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,928.96
+391,2019,MX,"Holmes Odor Grabber","Office Supplies",-131.62
+392,2017,CN,"Imation DVD-RAM discs",Technology,-82.83
+393,2019,MX,"Decoflex Hanging Personal Folder File",Furniture,25.04
+394,2017,EU,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,930.99
+395,2021,EU,"Keytronic 105-Key Spanish Keyboard",Technology,-580.32
+396,2016,EU,"Holmes Odor Grabber","Office Supplies",-253.11
+397,2023,CN,"Xerox 1904","Office Supplies",-16.67
+398,2019,CN,"Staples SlimLine Pencil Sharpener","Office Supplies",40.20
+399,2019,CN,"SANFORD Liquid Accent Tank-Style Highlighters","Office Supplies",3.21
+400,2021,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",38.70
+401,2016,CN,"Staples SlimLine Pencil Sharpener","Office Supplies",-21.91
+402,2023,CN,"Fiskars Softgrip Scissors","Office Supplies",-119.77
+403,2020,BZ,"Imation DVD-RAM discs",Technology,-168.72
+404,2019,BZ,"Hon Valutask Swivel Chairs",Furniture,-439.62
+405,2022,EU,"DIXON Oriole Pencils","Office Supplies",15.42
+406,2019,MX,"DIXON Oriole Pencils","Office Supplies",33.92
+407,2015,MX,"Xerox 1904","Office Supplies",-16.67
+408,2021,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",46.44
+409,2017,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",-17.53
+410,2017,MX,"Fiskars Softgrip Scissors","Office Supplies",-95.82
+411,2017,MX,"SANFORD Liquid Accent Tank-Style Highlighters","Office Supplies",3.85
+412,2022,BZ,"Hewlett Packard 6S Scientific Calculator",Technology,71.74
+413,2018,EU,"Fellowes Super Stor/Drawer Files","Office Supplies",-79.32
+414,2017,MX,"Eldon Image Series Black Desk Accessories",Furniture,24.10
+415,2018,CN,"Polycom ViaVideo Desktop Video Communications Unit","Office Supplies",6.97
+416,2018,EU,"Array Memo Cubes","Office Supplies",-24.25
+417,2021,BZ,SC7868i,Technology,-605.37
+418,2021,CN,"Belkin 105-Key Black Keyboard",Technology,-99.55
+419,2018,CA,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-801.15
+420,2021,CA,"Chromcraft Rectangular Conference Tables",Furniture,797.86
+421,2019,MX,"Xerox 1904","Office Supplies",422.45
+422,2022,MX,"Hon Valutask Swivel Chairs",Furniture,-178.22
+423,2019,CA,"Belkin 105-Key Black Keyboard",Technology,-26.66
+424,2015,BZ,"Belkin 105-Key Black Keyboard","Office Supplies",-54.62
+425,2020,CN,"Binding Machine Supplies","Office Supplies",-126.81
+426,2018,CN,"Hewlett Packard 6S Scientific Calculator",Technology,1400.10
+427,2015,BZ,SC7868i,Technology,916.68
+428,2016,MX,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,67.60
+429,2022,CA,"Fellowes Super Stor/Drawer Files","Office Supplies",-224.64
+430,2018,CA,"O Sullivan Elevations Bookcase Cherry Finish",Furniture,14.76
+431,2020,EU,"Avery 501","Office Supplies",10.85
+432,2021,CN,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",97.66
+433,2017,MX,"Boston 16765 Mini Stand Up Battery Pencil Sharpener",Furniture,-453.20
+434,2019,CA,"Epson C82 Color Inkjet Printer",Technology,-207.68
+435,2015,BZ,"High Speed Automatic Electric Letter Opener","Office Supplies",-7.52
+436,2016,BZ,Accessory36,Technology,-92.96
+437,2022,BZ,5170i,Technology,613.90
+438,2018,CA,"Dual Level Single-Width Filing Carts",Technology,232.28
+439,2015,MX,"Fellowes Super Stor/Drawer Files",Technology,-45.07
+440,2016,EU,"Acco Hot Clips Clips to Go","Office Supplies",-8.53
+441,2018,EU,"Brother DCP1000 Digital 3 in 1 Multifunction Machine",Technology,285.95
+442,2022,BZ,"Hoover WindTunnel Plus Canister Vacuum","Office Supplies",-209.25
+443,2015,CN,"Xerox 1904","Office Supplies",-9.16
+444,2018,CN,"Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac","Office Supplies",12.71
+445,2017,EU,"Sharp 1540cs Digital Laser Copier",Technology,7.72
+446,2020,CA,"Home/Office Personal File Carts","Office Supplies",192.52
+447,2020,MX,"Fellowes Super Stor/Drawer Files",Furniture,-134.91
+448,2019,MX,"Southworth Structures Collection","Office Supplies",-5.05
+449,2021,MX,"Xerox 1904","Office Supplies",-204.16
+450,2020,BZ,"Avery 501","Office Supplies",-46.12
+451,2023,EU,"Holmes Odor Grabber","Office Supplies",-20.10
+452,2018,BZ,"Coloredge Poster Frame","Office Supplies",-3.50
+453,2020,BZ,"Space Solutions Commercial Steel Shelving","Office Supplies",-717.07
+454,2021,MX,"Xerox 1904","Office Supplies",-62.23
+455,2016,CA,"Novimex Fabric Task Chair",Furniture,131.38
+456,2021,MX,"Eldon Image Series Black Desk Accessories","Office Supplies",-89.29
+457,2017,EU,Accessory36,Technology,-211.04
+458,2019,CA,"MicroTAC 650",Technology,-13.28
+459,2017,CA,"Xerox 1904","Office Supplies",-48.68
+460,2022,BZ,Accessory36,Technology,-184.55
+461,2022,CA,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,1220.04
+462,2016,CN,"Avery 501","Office Supplies",-2.87
+463,2018,MX,"Eldon Image Series Black Desk Accessories",Furniture,4.38
+464,2018,CA,"Dual Level Single-Width Filing Carts",Furniture,-100.74
+465,2017,CA,"Staples SlimLine Pencil Sharpener","Office Supplies",3.38
+466,2017,MX,"Adams Phone Message Book","Office Supplies",0.35
+467,2019,BZ,"Array Memo Cubes","Office Supplies",-17.65
+468,2018,CA,"Holmes Odor Grabber","Office Supplies",-13.83
+469,2018,MX,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",-203.67
+470,2018,CA,"Zebra Zazzle Fluorescent Highlighters","Office Supplies",19.57
+471,2015,MX,"DAX Solid Wood Frames",Furniture,98.12
+472,2022,CA,"Holmes Odor Grabber","Office Supplies",107.11
+473,2020,CA,"Binding Machine Supplies","Office Supplies",-216.15
+474,2017,MX,"Bagged Rubber Bands","Office Supplies",-6.61
+475,2016,EU,"Binding Machine Supplies","Office Supplies",-89.22
+476,2020,BZ,"Newell 321","Office Supplies",1.22
+477,2018,CN,"2300 Heavy-Duty Transfer File Systems by Perma","Office Supplies",4.31
+478,2015,CN,Accessory36,Technology,-125.83
+479,2022,BZ,"Coloredge Poster Frame",Furniture,122.21
+480,2015,BZ,"Xerox 1904","Office Supplies",-11.13
+481,2021,CN,"Decoflex Hanging Personal Folder File",Furniture,201.74
+482,2018,EU,"Canon P1-DHIII Palm Printing Calculator","Office Supplies",-684.78
+483,2020,MX,"Xerox 1904","Office Supplies",-237.47
+484,2019,EU,"Dual Level Single-Width Filing Carts",Furniture,-2946.05
+485,2015,CN,"Coloredge Poster Frame",Furniture,21.56
+486,2022,MX,"Binding Machine Supplies","Office Supplies",-239.32
+487,2015,MX,"Xerox 1904","Office Supplies",-33.31
+488,2017,CN,"Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac","Office Supplies",-74.48
+489,2016,CN,"CF 688",Technology,-232.22
+490,2022,CA,"Staples SlimLine Pencil Sharpener","Office Supplies",18.64
+491,2016,EU,"Xerox 1904","Office Supplies",-31.24
+492,2016,EU,"Global High-Back Leather Tilter Burgundy",Furniture,55.89
+493,2019,MX,"Dual Level Single-Width Filing Carts",Furniture,1.32
+494,2019,BZ,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,455.42
+495,2017,MX,"Document Clip Frames",Furniture,29.33
+496,2016,EU,"Newell 321","Office Supplies",-86.00
+497,2022,MX,"OIC Thumb-Tacks","Office Supplies",-0.49
+498,2020,EU,"Document Clip Frames",Furniture,34.35
+499,2021,MX,"Newell 321","Office Supplies",-66.65
+500,2020,BZ,"Staples SlimLine Pencil Sharpener",Technology,35.96
+501,2019,BZ,"Lexmark 4227 Plus Dot Matrix Printer",Technology,-173.10
+502,2019,MX,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-96.16
+503,2016,CA,"Round Specialty Laser Printer Labels","Office Supplies",263.40
+504,2021,CA,"Array Memo Cubes","Office Supplies",37.31
+505,2016,MX,"Lexmark 4227 Plus Dot Matrix Printer",Technology,-173.10
+506,2015,CN,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-96.16
+507,2017,BZ,"Round Specialty Laser Printer Labels","Office Supplies",104.72
+508,2018,BZ,"Array Memo Cubes","Office Supplies",37.31
+509,2021,MX,"Avery 501","Office Supplies",80.67
+510,2020,CN,Accessory36,Technology,114.32
+511,2020,BZ,"Coloredge Poster Frame","Office Supplies",1107.41
+512,2016,CA,"Xerox 1904","Office Supplies",-149.21
+513,2023,CN,"Dual Level Single-Width Filing Carts","Office Supplies",-21.02
+514,2020,EU,"Boston 16765 Mini Stand Up Battery Pencil Sharpener",Furniture,-655.53
+515,2017,EU,"Advantus Plastic Paper Clips","Office Supplies",354.33
+516,2016,EU,"Chromcraft Rectangular Conference Tables",Furniture,-489.42
+517,2019,MX,"Fellowes Super Stor/Drawer Files","Office Supplies",35.31
+518,2017,BZ,"Steel Personal Filing/Posting Tote","Office Supplies",6.11
+519,2019,CA,"O Sullivan Elevations Bookcase Cherry Finish",Furniture,187.41
+520,2017,MX,"Acme Elite Stainless Steel Scissors","Office Supplies",-6.34
+521,2018,MX,"Logitech Access Keyboard",Technology,92.72
+522,2022,CN,"Fellowes Super Stor/Drawer Files","Office Supplies",-160.28
+523,2018,CN,5170i,Technology,396.97
+524,2022,MX,"Advantus Plastic Paper Clips","Office Supplies",-7.04
+525,2019,CN,"Iceberg OfficeWorks 42 Round Tables",Furniture,538.52
+526,2020,BZ,"Adams Phone Message Book","Office Supplies",-4.14
+527,2022,CN,"Xerox 1904","Office Supplies",-31.89
+528,2017,BZ,"StarTAC 7797",Technology,-95.21
+529,2017,MX,"Fellowes Super Stor/Drawer Files",Furniture,-193.58
+530,2020,MX,"Binding Machine Supplies","Office Supplies",-4.30
+531,2015,EU,"Eldon Image Series Black Desk Accessories",Furniture,-1570.32
+532,2018,BZ,"Coloredge Poster Frame",Furniture,27.23
+533,2016,EU,"Avery 501","Office Supplies",-19.10
+534,2020,EU,"Xerox 1904","Office Supplies",373.67
+535,2022,MX,"Avery 501","Office Supplies",-14.80
+536,2020,BZ,"Epson C82 Color Inkjet Printer",Technology,-2561.32
+537,2021,EU,"Xerox 1904","Office Supplies",168.92
+538,2020,EU,"Newell 321","Office Supplies",-6.20
+539,2022,CN,"Sharp 1540cs Digital Laser Copier","Office Supplies",19.06
+540,2016,CN,"Turquoise Lead Holder with Pocket Clip","Office Supplies",10.56
+541,2018,EU,"Panasonic KX-P2130 Dot Matrix Printer",Technology,837.68
+542,2021,EU,"Newell 321","Office Supplies",-4.20
+543,2018,CA,"Belkin 105-Key Black Keyboard",Furniture,-44.16
+544,2016,EU,"Newell 321","Office Supplies",-4.20
+545,2023,MX,"Iceberg OfficeWorks 42 Round Tables",Furniture,-102.66
+546,2017,BZ,"Global High-Back Leather Tilter Burgundy",Furniture,-116.58
+547,2020,CA,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,12.90
+548,2016,CA,"Hoover WindTunnel Plus Canister Vacuum","Office Supplies",-21.32
+549,2017,EU,"High Speed Automatic Electric Letter Opener","Office Supplies",93.85
+550,2016,CA,"Gyration Ultra Professional Cordless Optical Suite",Technology,17.77
+551,2019,EU,"Xerox 1904","Office Supplies",-104.57
+552,2022,BZ,"Brother DCP1000 Digital 3 in 1 Multifunction Machine",Furniture,-969.05
+553,2020,CA,"Dual Level Single-Width Filing Carts","Office Supplies",4.03
+554,2018,CA,"Fellowes Super Stor/Drawer Files","Office Supplies",-23.63
+555,2018,BZ,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,-71.83
+556,2023,MX,"Linden 12 Wall Clock With Oak Frame",Furniture,-0.74
+557,2023,CN,"Staples SlimLine Pencil Sharpener","Office Supplies",-3.88
+558,2015,BZ,"Xerox 1904","Office Supplies",551.09
+559,2021,EU,"Sharp 1540cs Digital Laser Copier","Office Supplies",17.51
+560,2018,EU,"Chromcraft Rectangular Conference Tables",Furniture,818.55
+561,2018,BZ,"Dual Level Single-Width Filing Carts",Technology,-17.15
+562,2017,MX,"Eldon Image Series Black Desk Accessories",Furniture,-29.54
+563,2015,BZ,"Keytronic 105-Key Spanish Keyboard",Technology,-329.78
+564,2018,CA,"Binding Machine Supplies","Office Supplies",-2.10
+565,2022,EU,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",829.47
+566,2021,CN,"Xerox 1904","Office Supplies",111.22
+567,2015,BZ,"Jet-Pak Recycled Peel","Office Supplies",22.87
+568,2022,BZ,"Personal Creations Ink Jet Cards and Labels","Office Supplies",115.73
+569,2015,MX,"Panasonic KX-P2130 Dot Matrix Printer",Technology,909.36
+570,2021,BZ,"Acco Hot Clips Clips to Go","Office Supplies",-76.42
+571,2017,CN,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",8.73
+572,2015,CN,"Ibico Recycled Linen-Style Covers","Office Supplies",442.09
+573,2022,MX,"Binding Machine Supplies","Office Supplies",455.12
+574,2022,CN,"Jet-Pak Recycled Peel",Technology,624.40
+575,2022,MX,"Imation DVD-RAM discs",Technology,18.92
+576,2019,MX,"Avery 501","Office Supplies",39.35
+577,2023,MX,"Keytronic 105-Key Spanish Keyboard",Technology,-229.87
+578,2021,CA,"Canon P1-DHIII Palm Printing Calculator",Technology,329.98
+579,2020,CN,"SANFORD Major Accent Highlighters","Office Supplies",30.49
+580,2015,CN,"MicroTAC 650",Technology,1152.53
+581,2021,EU,"Jet-Pak Recycled Peel",Technology,-604.41
+582,2015,EU,"US Robotics 56K V.92 External Faxmodem",Technology,293.66
+583,2016,CA,"Dual Level Single-Width Filing Carts","Office Supplies",-403.19
+584,2020,CN,"Fellowes Super Stor/Drawer Files",Technology,-13.77
+585,2018,BZ,"Avery 501","Office Supplies",44.91
+586,2021,BZ,"Holmes Odor Grabber","Office Supplies",9.33
+587,2021,CA,"Eldon Image Series Black Desk Accessories",Furniture,2593.14
+588,2018,CN,"Eldon Image Series Black Desk Accessories",Furniture,1162.76
+589,2021,EU,"Xerox 1904","Office Supplies",-76.94
+590,2016,CA,"Xerox 1904","Office Supplies",-40.01
+591,2022,BZ,"Binding Machine Supplies","Office Supplies",-51.70
+592,2016,EU,"Xerox 1904","Office Supplies",144.75
+593,2019,CN,Accessory36,Technology,-112.19
+594,2019,CA,"Bagged Rubber Bands",Furniture,-445.97
+595,2021,CA,"Avery 501","Office Supplies",4.17
+596,2021,CA,"Bagged Rubber Bands",Furniture,-335.32
+597,2019,CA,"Avery 501","Office Supplies",16.02
+598,2022,EU,"Sharp 1540cs Digital Laser Copier",Furniture,38.07
+599,2020,MX,"Binding Machine Supplies","Office Supplies",-99.44
+600,2021,CN,"Xerox 1904","Office Supplies",-97.28
+601,2018,MX,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",139.61
+602,2015,CA,"Executive Impressions 12 Wall Clock",Furniture,-505.76
+603,2019,CN,"Executive Impressions 12 Wall Clock",Furniture,152.43
+604,2018,CA,"Acme Elite Stainless Steel Scissors","Office Supplies",9.86
+605,2022,MX,Accessory36,Technology,-232.99
+606,2019,CA,"Dual Level Single-Width Filing Carts","Office Supplies",-40.28
+607,2023,BZ,"Southworth Structures Collection","Office Supplies",-53.25
+608,2016,BZ,"Fellowes Super Stor/Drawer Files",Technology,-159.25
+609,2015,CN,"High Speed Automatic Electric Letter Opener","Office Supplies",206.52
+610,2023,CN,"Binding Machine Supplies","Office Supplies",2.13
+611,2023,CN,"Eldon Image Series Black Desk Accessories","Office Supplies",5.88
+612,2018,CA,"Dual Level Single-Width Filing Carts","Office Supplies",772.04
+613,2022,BZ,"Dual Level Single-Width Filing Carts","Office Supplies",772.04
+614,2023,MX,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",81.91
+615,2018,EU,"Acme Elite Stainless Steel Scissors","Office Supplies",-10.90
+616,2019,CN,"Hon Valutask Swivel Chairs",Furniture,1232.79
+617,2017,MX,"Acme Elite Stainless Steel Scissors","Office Supplies",2.18
+618,2018,BZ,"Binding Machine Supplies","Office Supplies",67.11
+619,2022,CA,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",54.94
+620,2015,EU,"Targus USB Numeric Keypad",Technology,168.24
+621,2018,BZ,"Fellowes Super Stor/Drawer Files",Furniture,-169.23
+622,2019,CA,"Dual Level Single-Width Filing Carts",Furniture,1272.58
+623,2022,MX,"Epson C82 Color Inkjet Printer",Technology,-5390.74
+624,2017,EU,"Avery 501","Office Supplies",29.73
+625,2021,CA,Accessory36,Technology,-187.11
+626,2018,EU,"Space Solutions Commercial Steel Shelving","Office Supplies",-139.29
+627,2015,BZ,"Southworth Structures Collection","Office Supplies",108.00
+628,2017,CN,TimeportP7382,Technology,377.15
+629,2020,BZ,"Binding Machine Supplies","Office Supplies",-127.05
+630,2018,MX,5170i,Technology,2169.75
+631,2019,CN,"Rush Hierlooms Collection Rich Wood Bookcases",Furniture,-229.93
+632,2021,CN,"Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac","Office Supplies",-93.74
+633,2019,MX,"Polycom ViaVideo Desktop Video Communications Unit","Office Supplies",4.53
+634,2020,CN,"Imation DVD-RAM discs","Office Supplies",9.78
+635,2018,CN,"Avery 501","Office Supplies",-63.81
+636,2017,CA,"Canon P1-DHIII Palm Printing Calculator",Technology,325.29
+637,2019,CN,"HP Office Paper (20Lb. and 87 Bright)","Office Supplies",-116.05
+638,2016,MX,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",117.38
+639,2022,BZ,"Logitech Access Keyboard",Technology,-144.20
+640,2022,EU,"Xerox 1904","Office Supplies",-46.92
+641,2018,CN,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",70.19
+642,2019,MX,"Dual Level Single-Width Filing Carts","Office Supplies",-48.22
+643,2022,EU,"Avery 501","Office Supplies",-63.81
+644,2017,EU,"Canon P1-DHIII Palm Printing Calculator",Technology,325.29
+645,2020,EU,"Logitech Access Keyboard",Technology,-115.36
+646,2016,MX,"Xerox 1904","Office Supplies",-46.92
+647,2021,BZ,"Epson C82 Color Inkjet Printer",Technology,2660.14
+648,2022,MX,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,-51.12
+649,2018,EU,"Hoover WindTunnel Plus Canister Vacuum","Office Supplies",1766.78
+650,2018,MX,"Xerox 1904","Office Supplies",85.88
+651,2021,EU,"Dual Level Single-Width Filing Carts",Furniture,6.09
+652,2015,CN,"High Speed Automatic Electric Letter Opener","Office Supplies",20.30
+653,2022,BZ,"White GlueTop Scratch Pads","Office Supplies",108.52
+654,2016,EU,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,48.47
+655,2019,CA,"Fellowes Super Stor/Drawer Files",Furniture,-152.76
+656,2022,BZ,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",125.21
+657,2016,CN,5170i,Technology,281.53
+658,2019,CN,"Hoover WindTunnel Plus Canister Vacuum","Office Supplies",64.27
+659,2021,CA,"Executive Impressions 12 Wall Clock",Furniture,-302.62
+660,2021,BZ,"Targus USB Numeric Keypad",Technology,5.69
+661,2020,MX,"Dual Level Single-Width Filing Carts",Furniture,-369.11
+662,2023,BZ,"Avery 501","Office Supplies",27.01
+663,2022,EU,Accessory36,Technology,184.20
+664,2015,CN,"Polycom ViaVideo Desktop Video Communications Unit",Technology,4.11
+665,2016,BZ,"Harmony HEPA Quiet Air Purifiers","Office Supplies",28.57
+666,2022,BZ,"Hewlett Packard 6S Scientific Calculator",Technology,2581.56
+667,2016,EU,"Belkin 105-Key Black Keyboard","Office Supplies",-25.11
+668,2019,MX,"Eldon Image Series Black Desk Accessories",Furniture,17.38
+669,2018,CN,"Staples SlimLine Pencil Sharpener",Furniture,24.26
+670,2017,CA,"Binding Machine Supplies","Office Supplies",59.44
+671,2023,CA,"Eldon Image Series Black Desk Accessories",Furniture,14.48
+672,2021,EU,"Staples SlimLine Pencil Sharpener",Furniture,22.25
+673,2016,EU,"Binding Machine Supplies","Office Supplies",592.53
+674,2018,CA,"Coloredge Poster Frame","Office Supplies",232.80
+675,2021,MX,"Avery 501","Office Supplies",38.08
+676,2017,BZ,"Zoom V.92 USB External Faxmodem",Technology,-17.03
+677,2019,MX,"Binding Machine Supplies","Office Supplies",39.63
+678,2017,BZ,"Avery 501","Office Supplies",20.50
+679,2016,EU,"Hon Valutask Swivel Chairs",Furniture,103.83
+680,2017,CN,"Eldon Image Series Black Desk Accessories","Office Supplies",-24.90
+681,2020,BZ,"Binding Machine Supplies","Office Supplies",776.77
+682,2015,EU,"Coloredge Poster Frame","Office Supplies",344.54
+683,2022,BZ,"Zoom V.92 USB External Faxmodem",Technology,-8.52
+684,2018,BZ,"Avery 501","Office Supplies",9.00
+685,2019,MX,"Dual Level Single-Width Filing Carts","Office Supplies",-99.76
+686,2022,MX,"Canon P1-DHIII Palm Printing Calculator",Technology,-3061.82
+687,2022,MX,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,258.62
+688,2022,EU,"Southworth Structures Collection","Office Supplies",-6.71
+689,2019,EU,"Newell 321","Office Supplies",-0.01
+690,2020,BZ,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,-421.76
+691,2016,CN,"Acme Elite Stainless Steel Scissors","Office Supplies",6.79
+692,2021,CN,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,-421.76
+693,2017,BZ,"Binding Machine Supplies","Office Supplies",-60.15
+694,2017,BZ,"Imation DVD-RAM discs",Technology,-111.72
+695,2015,BZ,"Staples SlimLine Pencil Sharpener","Office Supplies",33.01
+696,2018,CN,"Imation DVD-RAM discs",Technology,-111.72
+697,2022,CN,"Binding Machine Supplies","Office Supplies",297.46
+698,2016,CN,"Adesso Programmable 142-Key Keyboard",Technology,-564.60
+699,2022,BZ,"US Robotics 56K V.92 External Faxmodem",Technology,-161.48
+700,2019,BZ,"Jet-Pak Recycled Peel",Technology,-0.81
+701,2021,BZ,"SAFCO Folding Chair Trolley",Furniture,790.46
+702,2017,BZ,"Eldon Image Series Black Desk Accessories",Furniture,7.74
+703,2017,MX,"Polycom ViaVideo Desktop Video Communications Unit",Technology,3985.31
+704,2019,MX,"Phone 918",Technology,13.96
+705,2015,MX,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,788.79
+706,2022,CN,"Binding Machine Supplies","Office Supplies",-70.14
+707,2015,BZ,"Hewlett Packard 6S Scientific Calculator",Technology,531.62
+708,2021,BZ,"Avery 501","Office Supplies",-107.51
+709,2018,CA,"GE 4 Foot Flourescent Tube 40 Watt",Furniture,46.01
+710,2017,EU,"Harmony HEPA Quiet Air Purifiers",Technology,1489.80
+711,2022,CN,"Avery 501","Office Supplies",-107.51
+712,2023,EU,"GE 4 Foot Flourescent Tube 40 Watt",Furniture,24.82
+713,2015,BZ,"Avery 501","Office Supplies",-255.17
+714,2020,EU,"Hon Valutask Swivel Chairs",Furniture,74.00
+715,2021,BZ,"Dual Level Single-Width Filing Carts","Office Supplies",109.42
+716,2022,BZ,"Binding Machine Supplies","Office Supplies",421.35
+717,2018,CN,"Dual Level Single-Width Filing Carts",Furniture,-373.09
+718,2016,EU,"Bush Mission Pointe Library",Furniture,-3465.07
+719,2021,BZ,"Binding Machine Supplies","Office Supplies",-11.28
+720,2022,EU,"Canon P1-DHIII Palm Printing Calculator","Office Supplies",-218.77
+721,2020,CA,"Advantus Plastic Paper Clips","Office Supplies",-9.68
+722,2018,MX,"Hewlett Packard 6S Scientific Calculator",Technology,-164.40
+723,2015,CN,"High Speed Automatic Electric Letter Opener","Office Supplies",-8.21
+724,2017,CA,"Coloredge Poster Frame","Office Supplies",-2196.68
+725,2023,MX,"Keytronic 105-Key Spanish Keyboard",Technology,43.54
+726,2015,MX,"Xerox 1904","Office Supplies",-11.38
+727,2018,BZ,"Sharp 1540cs Digital Laser Copier",Technology,533.74
+728,2015,MX,"SAFCO Folding Chair Trolley",Furniture,-379.34
+729,2020,EU,"Imation DVD-RAM discs",Technology,-1522.30
+730,2021,MX,"StarTAC 7797",Technology,588.25
+731,2021,CA,"Harmony HEPA Quiet Air Purifiers",Furniture,151.57
+732,2019,BZ,"Binding Machine Supplies","Office Supplies",54.90
+733,2022,EU,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,501.51
+734,2015,CN,"Binding Machine Supplies","Office Supplies",54.90
+735,2016,BZ,"Safco Contoured Stacking Chairs",Furniture,875.28
+736,2016,CN,"Canon P1-DHIII Palm Printing Calculator",Technology,727.74
+737,2018,MX,"Safco Contoured Stacking Chairs",Furniture,460.68
+738,2021,CA,"Canon P1-DHIII Palm Printing Calculator",Technology,393.42
+739,2020,CN,"Canon P1-DHIII Palm Printing Calculator",Technology,606.05
+740,2017,BZ,"Fellowes Super Stor/Drawer Files","Office Supplies",320.10
+741,2020,CN,"Staples SlimLine Pencil Sharpener",Technology,317.09
+742,2022,BZ,"3M Organizer Strips",Technology,250.36
+743,2019,BZ,"Avery 501","Office Supplies",6.03
+744,2018,BZ,"Decoflex Hanging Personal Folder File",Furniture,125.81
+745,2015,CA,"Staples SlimLine Pencil Sharpener",Technology,44.89
+746,2022,CN,"Binding Machine Supplies","Office Supplies",3.45
+747,2017,CA,Accessory36,Technology,-275.25
+748,2018,MX,"Canon P1-DHIII Palm Printing Calculator","Office Supplies",-746.44
+749,2017,EU,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-274.95
+750,2018,MX,"Acco Hot Clips Clips to Go","Office Supplies",-95.05
+751,2021,CA,"Binding Machine Supplies","Office Supplies",3.45
+752,2019,MX,Accessory36,Technology,-275.25
+753,2021,MX,"Canon P1-DHIII Palm Printing Calculator","Office Supplies",-746.44
+754,2021,BZ,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-274.95
+755,2017,CA,Accessory36,Technology,525.20
+756,2016,EU,"Avery 501","Office Supplies",-52.65
+757,2020,MX,"Personal Creations Ink Jet Cards and Labels","Office Supplies",-24.44
+758,2020,CN,Accessory36,Technology,366.51
+759,2021,MX,"DIXON Oriole Pencils","Office Supplies",27.38
+760,2019,CN,"Personal Creations Ink Jet Cards and Labels","Office Supplies",-12.71
+761,2020,CA,"Dual Level Single-Width Filing Carts",Technology,-5.30
+762,2022,CA,"DIXON Oriole Pencils","Office Supplies",41.07
+763,2017,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",-94.49
+764,2021,MX,"Advantus Plastic Paper Clips",Furniture,-172.30
+765,2021,CA,"Eldon Image Series Black Desk Accessories",Technology,3285.48
+766,2016,CN,"Executive Impressions 12 Wall Clock",Furniture,46.04
+767,2019,CA,"Avery 501","Office Supplies",-1.07
+768,2018,MX,"Avery 501","Office Supplies",4.41
+769,2020,BZ,TimeportP7382,Technology,500.96
+770,2020,CA,"Epson C82 Color Inkjet Printer",Technology,1206.60
+771,2018,BZ,"Sharp 1540cs Digital Laser Copier",Furniture,82.31
+772,2018,MX,"Avery 501","Office Supplies",1.22
+773,2021,CA,"Xerox 1904","Office Supplies",-15.63
+774,2017,CA,Accessory36,Technology,790.55
+775,2022,EU,"Binding Machine Supplies","Office Supplies",5.47
+776,2018,MX,"Advantus Plastic Paper Clips","Office Supplies",-149.12
+777,2015,CA,"Xerox 1904","Office Supplies",-90.26
+778,2017,MX,"Keytronic 105-Key Spanish Keyboard",Technology,-326.23
+779,2019,MX,"Binding Machine Supplies","Office Supplies",16.90
+780,2020,CA,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",20.14
+781,2016,CN,"Acco Hot Clips Clips to Go","Office Supplies",-21.23
+782,2022,EU,"Avery 501","Office Supplies",18.06
+783,2020,CN,"Eldon Image Series Black Desk Accessories",Furniture,-93.25
+784,2017,EU,"X-Rack File for Hanging Folders","Office Supplies",-163.03
+785,2018,CN,"Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge","Office Supplies",23.62
+786,2020,BZ,"Eldon Image Series Black Desk Accessories",Furniture,-11.07
+787,2016,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",21.77
+788,2018,BZ,"Avery 501","Office Supplies",29.38
+789,2016,CA,"Dual Level Single-Width Filing Carts","Office Supplies",100.30
+790,2022,EU,"T28 WORLD",Technology,2495.40
+791,2017,BZ,"Newell 321","Office Supplies",-0.11
+792,2015,EU,"Eldon Image Series Black Desk Accessories","Office Supplies",15.24
+793,2019,MX,"Avery 501","Office Supplies",-42.85
+794,2020,MX,"Fellowes Super Stor/Drawer Files",Technology,-20.79
+795,2022,CA,"Avery 501","Office Supplies",-33.21
+796,2022,MX,"Fellowes Super Stor/Drawer Files",Technology,-20.79
+797,2016,MX,"GE 4 Foot Flourescent Tube 40 Watt",Technology,370.00
+798,2016,MX,"Avery 501","Office Supplies",20.45
+799,2021,CA,"GE 4 Foot Flourescent Tube 40 Watt",Technology,542.25
+800,2016,CN,"Maxell DVD-RAM Discs",Technology,69.61
+801,2020,CN,"Brother DCP1000 Digital 3 in 1 Multifunction Machine",Furniture,-634.87
+802,2019,CA,"Binding Machine Supplies","Office Supplies",87.12
+803,2016,CN,"Staples SlimLine Pencil Sharpener","Office Supplies",25.24
+804,2021,MX,"Belkin 105-Key Black Keyboard",Furniture,-94.67
+805,2018,MX,"Executive Impressions 12 Wall Clock",Furniture,451.28
+806,2022,BZ,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",44.99
+807,2018,CN,"Brother DCP1000 Digital 3 in 1 Multifunction Machine","Office Supplies",-20.73
+808,2020,CN,"Fellowes Super Stor/Drawer Files","Office Supplies",-164.39
+809,2022,CN,"Lexmark 4227 Plus Dot Matrix Printer",Technology,-4793.00
+810,2017,CA,"Jet-Pak Recycled Peel",Technology,1258.79
+811,2020,BZ,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",74.28
+812,2016,BZ,"Dual Level Single-Width Filing Carts","Office Supplies",52.92
+813,2019,CN,"Newell 321","Office Supplies",-66.35
+814,2023,CN,"Executive Impressions 12 Wall Clock",Furniture,1399.64
+815,2017,CA,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",232.64
+816,2017,CN,"Canon P1-DHIII Palm Printing Calculator","Office Supplies",-409.37
+817,2017,EU,"Xerox 1904","Office Supplies",-29.07
+818,2015,CN,"Keytronic 105-Key Spanish Keyboard","Office Supplies",1909.89
+819,2016,CA,"Binding Machine Supplies","Office Supplies",-76.99
+820,2015,CA,"Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock",Furniture,297.97
+821,2023,EU,"Dual Level Single-Width Filing Carts",Furniture,1318.83
+822,2020,CA,Accessory36,Technology,36.22
+823,2021,BZ,"Binding Machine Supplies","Office Supplies",134.17
+824,2019,CA,5170i,Technology,253.30
+825,2015,CA,"O Sullivan Elevations Bookcase Cherry Finish",Furniture,-723.78
+826,2017,CA,"Eldon Image Series Black Desk Accessories",Furniture,589.19
+827,2016,CA,"Hon Valutask Swivel Chairs",Furniture,-1314.99
+828,2023,BZ,"Binding Machine Supplies","Office Supplies",3043.03
+829,2017,MX,"Logitech Access Keyboard",Technology,-44.62
+830,2020,CN,"Fellowes Super Stor/Drawer Files","Office Supplies",309.25
+831,2023,CN,"Dual Level Single-Width Filing Carts",Technology,61.29
+832,2020,MX,"Dual Level Single-Width Filing Carts","Office Supplies",91.73
+833,2016,EU,"Dual Level Single-Width Filing Carts","Office Supplies",53.07
+834,2022,BZ,Accessory36,Furniture,-14.64
+835,2022,MX,"US Robotics 56K V.92 External Faxmodem",Technology,-127.56
+836,2020,BZ,"Fellowes Super Stor/Drawer Files","Office Supplies",282.18
+837,2018,CN,Accessory36,Technology,-96.34
+838,2015,MX,"Binding Machine Supplies","Office Supplies",-23.36
+839,2023,CA,"Harmony HEPA Quiet Air Purifiers","Office Supplies",-18.24
+840,2018,CN,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",1428.91
+841,2020,CN,"Epson C82 Color Inkjet Printer",Technology,509.96
+842,2020,CN,"Fellowes Super Stor/Drawer Files",Furniture,-255.65
+843,2017,CA,"Xerox 1904","Office Supplies",-76.54
+844,2019,CN,"Eldon Image Series Black Desk Accessories",Furniture,-10.09
+845,2017,EU,"Eldon Image Series Black Desk Accessories","Office Supplies",-92.87
+846,2018,CN,"Personal Creations Ink Jet Cards and Labels","Office Supplies",-298.89
+847,2018,CN,"Xerox 1904","Office Supplies",-145.85
+848,2016,CN,"BPI Conference Tables",Furniture,-27.95
+849,2017,BZ,"Avery 501","Office Supplies",-3.65
+850,2016,EU,"Coloredge Poster Frame","Office Supplies",731.92
+851,2023,CA,"StarTAC 7797",Technology,186.56
+852,2020,BZ,Accessory36,Technology,-138.04
+853,2015,BZ,"Avery 501","Office Supplies",199.18
+854,2017,EU,"Xerox 1904","Office Supplies",711.05
+855,2021,CA,"Global High-Back Leather Tilter Burgundy",Furniture,-899.68
+856,2018,BZ,"Xerox 1904","Office Supplies",-189.22
+857,2017,CA,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",0.51
+858,2022,CN,8860,Technology,-52.25
+859,2018,EU,"MicroTAC 650",Technology,70.18
+860,2016,MX,"Binding Machine Supplies","Office Supplies",-161.92
+861,2022,CA,"Avery 501","Office Supplies",-157.70
+862,2016,BZ,"Dual Level Single-Width Filing Carts",Technology,-56.45
+863,2022,EU,"Riverleaf Stik-Withit Designer Note Cubes","Office Supplies",33.19
+864,2017,EU,"Canon P1-DHIII Palm Printing Calculator",Technology,-367.17
+865,2020,BZ,"Polycom ViaVideo Desktop Video Communications Unit","Office Supplies",-243.54
+866,2016,CA,"Brother DCP1000 Digital 3 in 1 Multifunction Machine",Furniture,-337.09
+867,2020,CA,"Staples SlimLine Pencil Sharpener","Office Supplies",68.68
+868,2021,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",481.03
+869,2017,MX,"Belkin 105-Key Black Keyboard",Furniture,-4.02
+870,2021,CN,"Avery 501","Office Supplies",-2.01
+871,2023,CA,"Xerox 1904","Office Supplies",-477.37
+872,2016,EU,"Euro Pro Shark Stick Mini Vacuum","Office Supplies",-954.76
+873,2022,MX,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,219.47
+874,2020,BZ,"Hon Valutask Swivel Chairs",Furniture,-390.77
+875,2020,EU,"Staples SlimLine Pencil Sharpener","Office Supplies",-155.21
+876,2018,CA,"Advantus Plastic Paper Clips",Furniture,-6.64
+877,2016,BZ,"Fellowes Super Stor/Drawer Files",Technology,27.23
+878,2017,CN,"Personal Creations Ink Jet Cards and Labels","Office Supplies",-8.40
+879,2021,CA,Accessory36,Furniture,83.79
+880,2016,BZ,"Avery 501","Office Supplies",-77.82
+881,2022,BZ,"Executive Impressions 12 Wall Clock",Furniture,5078.54
+882,2020,EU,"DAX Solid Wood Frames",Furniture,23.28
+883,2021,MX,"Newell 321","Office Supplies",17.75
+884,2016,EU,"High Speed Automatic Electric Letter Opener","Office Supplies",-3.93
+885,2017,EU,"Stockwell Push Pins","Office Supplies",2.45
+886,2020,EU,"Belkin 105-Key Black Keyboard",Furniture,-537.28
+887,2020,CA,"Avery 501","Office Supplies",-14.36
+888,2017,BZ,"Canon P1-DHIII Palm Printing Calculator",Technology,-2870.28
+889,2015,MX,"Polycom ViaVideo Desktop Video Communications Unit",Technology,77.98
+890,2015,CN,"GE 4 Foot Flourescent Tube 40 Watt","Office Supplies",-200.86
+891,2022,EU,"Acme Elite Stainless Steel Scissors","Office Supplies",-33.30
+892,2021,EU,"Personal Creations Ink Jet Cards and Labels","Office Supplies",-90.59
+893,2021,CN,"Fiskars Softgrip Scissors","Office Supplies",-36.90
+894,2021,CN,"TDK 4.7GB DVD-R",Technology,341.20
+895,2018,BZ,"High Speed Automatic Electric Letter Opener","Office Supplies",-175.13
+896,2022,EU,"6 Cubicle Wall Clock Black",Technology,3.96
+897,2022,CA,"Binding Machine Supplies","Office Supplies",1.62
+898,2022,EU,"Keytronic 105-Key Spanish Keyboard",Technology,65.39
+899,2017,BZ,"Eldon Image Series Black Desk Accessories","Office Supplies",1.34
+900,2021,MX,"Panasonic KX-P2130 Dot Matrix Printer",Technology,1674.75
+901,2022,CN,"Xerox 1904","Office Supplies",300.05
+902,2022,CN,"High Speed Automatic Electric Letter Opener","Office Supplies",-28.09
+903,2021,BZ,"Hon Valutask Swivel Chairs",Furniture,-263.11
+904,2017,EU,"Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge","Office Supplies",-38.81
+905,2019,MX,"6 Cubicle Wall Clock Black",Furniture,15.98
+906,2018,MX,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",-88.16
+907,2021,BZ,"Imation DVD-RAM discs",Technology,-76.11
+908,2017,EU,"Hewlett Packard 6S Scientific Calculator",Technology,-73.49
+909,2021,CN,"Hewlett Packard 6S Scientific Calculator",Technology,-272.86
+910,2018,BZ,"Newell 321","Office Supplies",10.58
+911,2021,BZ,"3M Organizer Strips",Furniture,1127.55
+912,2017,MX,"High Speed Automatic Electric Letter Opener","Office Supplies",147.76
+913,2021,EU,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,69.55
+914,2021,CN,"Acco Hot Clips Clips to Go","Office Supplies",8.53
+915,2021,BZ,"Binding Machine Supplies","Office Supplies",507.63
+916,2022,EU,"Acme Elite Stainless Steel Scissors","Office Supplies",38.23
+917,2020,MX,"Belkin 105-Key Black Keyboard","Office Supplies",100.13
+918,2020,CN,"Southworth Structures Collection",Technology,15.10
+919,2016,CA,"Avery 501","Office Supplies",14.91
+920,2017,EU,"Jet-Pak Recycled Peel",Technology,-135.23
+921,2015,CA,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-457.73
+922,2016,CN,"T28 WORLD",Technology,-268.66
+923,2017,BZ,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-8.28
+924,2019,CA,"Imation DVD-RAM discs",Technology,1912.42
+925,2017,BZ,"High Speed Automatic Electric Letter Opener","Office Supplies",-739.33
+926,2016,EU,"Avery 501","Office Supplies",-40.53
+927,2015,BZ,"Binding Machine Supplies","Office Supplies",0.70
+928,2016,CN,"Global High-Back Leather Tilter Burgundy",Furniture,15.53
+929,2023,CA,"Xerox 1904","Office Supplies",-225.56
+930,2018,CA,"DAX Solid Wood Frames",Furniture,-22.72
+931,2016,CN,"Staples SlimLine Pencil Sharpener","Office Supplies",-163.53
+932,2018,EU,"Eldon Image Series Black Desk Accessories",Furniture,554.77
+933,2022,CA,"Eldon Image Series Black Desk Accessories",Furniture,-38.38
+934,2017,BZ,"Staples SlimLine Pencil Sharpener","Office Supplies",-56.35
+935,2017,MX,"Eldon Image Series Black Desk Accessories",Furniture,-19.96
+936,2018,CA,"Staples SlimLine Pencil Sharpener","Office Supplies",-56.35
+937,2016,MX,"Eldon Image Series Black Desk Accessories",Furniture,-129.01
+938,2016,CA,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-628.38
+939,2015,CN,"6 Cubicle Wall Clock Black",Technology,616.54
+940,2018,BZ,"Fellowes Super Stor/Drawer Files","Office Supplies",-143.24
+941,2018,CA,"Acme Elite Stainless Steel Scissors","Office Supplies",-123.18
+942,2017,BZ,"Dual Level Single-Width Filing Carts","Office Supplies",-28.80
+943,2020,CA,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",-273.98
+944,2021,EU,"Fellowes Super Stor/Drawer Files","Office Supplies",-253.78
+945,2022,BZ,"Binding Machine Supplies","Office Supplies",-152.52
+946,2018,EU,"Xerox 1904","Office Supplies",-18.85
+947,2016,BZ,"Holmes Odor Grabber","Office Supplies",-220.05
+948,2017,MX,"Imation DVD-RAM discs","Office Supplies",20.39
+949,2017,CA,"Staples SlimLine Pencil Sharpener","Office Supplies",38.28
+950,2018,EU,"6 Cubicle Wall Clock Black",Technology,3670.35
+951,2022,BZ,"Avery 501","Office Supplies",21.00
+952,2019,CA,"Fellowes Super Stor/Drawer Files","Office Supplies",13.54
+953,2020,CN,"Dual Level Single-Width Filing Carts",Furniture,-167.05
+954,2015,EU,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",-31.09
+955,2016,MX,TimeportP7382,Technology,-6.20
+956,2023,EU,"Executive Impressions 12 Wall Clock",Furniture,-48.87
+957,2019,CN,"Maxell DVD-RAM Discs",Technology,-144.59
+958,2022,EU,"Eldon Image Series Black Desk Accessories","Office Supplies",-258.57
+959,2016,EU,"US Robotics 56K V.92 External Faxmodem",Technology,13.51
+960,2019,EU,"Xerox 1904","Office Supplies",-66.48
+961,2018,MX,"Polycom ViaVideo Desktop Video Communications Unit","Office Supplies",-52.33
+962,2016,BZ,"Eldon Image Series Black Desk Accessories","Office Supplies",-59.06
+963,2021,CA,Accessory36,Technology,149.17
+964,2016,MX,"Decoflex Hanging Personal Folder File","Office Supplies",-76.90
+965,2021,CN,"High Speed Automatic Electric Letter Opener","Office Supplies",376.88
+966,2019,CN,"StarTAC 7797",Technology,-88.62
+967,2019,CN,"Euro Pro Shark Stick Mini Vacuum","Office Supplies",-662.52
+968,2015,CA,"Binding Machine Supplies","Office Supplies",9228.23
+969,2022,CN,"Xerox 1904","Office Supplies",-32.28
+970,2022,BZ,"Euro Pro Shark Stick Mini Vacuum","Office Supplies",-596.27
+971,2017,MX,"Binding Machine Supplies","Office Supplies",7889.69
+972,2023,MX,"StarTAC 7797",Technology,1545.81
+973,2016,MX,"Xerox 1904","Office Supplies",-16.14
+974,2016,BZ,"Advantus Plastic Paper Clips",Furniture,-130.42
+975,2017,CA,"Newell 321","Office Supplies",-106.42
+976,2021,BZ,5170i,Technology,-16476.84
+977,2017,CN,"Xerox 1904","Office Supplies",-108.27
+978,2018,CA,"Dual Level Single-Width Filing Carts",Furniture,-90.75
+979,2022,CN,Accessory36,Technology,-121.06
+980,2015,MX,"Avery 501","Office Supplies",-51.74
+981,2019,MX,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,116.51
+982,2015,MX,"Belkin 105-Key Black Keyboard",Furniture,-247.55
+983,2022,CA,Accessory36,Technology,-277.21
+984,2021,MX,"Belkin 105-Key Black Keyboard",Furniture,-93.06
+985,2017,EU,"Avery 501","Office Supplies",-48.24
+986,2022,BZ,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,44.29
+987,2016,MX,"Hewlett Packard 6S Scientific Calculator",Technology,43.28
+988,2015,MX,"Dual Level Single-Width Filing Carts",Technology,-36.21
+989,2019,CA,"6 Cubicle Wall Clock Black",Technology,7.03
+990,2016,BZ,8860,Technology,-16.77
+991,2022,CN,"1726 Digital Answering Machine",Furniture,514.18
+992,2017,CA,"Regeneration Desk Collection",Furniture,235.66
+993,2022,BZ,"Avery 501","Office Supplies",3.56
+994,2020,CA,"MicroTAC 650",Technology,5.34
+995,2022,CN,"Euro Pro Shark Stick Mini Vacuum","Office Supplies",-807.89
+996,2021,MX,"Binding Machine Supplies","Office Supplies",123.89
+997,2022,CA,"Xerox 1904","Office Supplies",-53.90
+998,2020,EU,"Dual Level Single-Width Filing Carts","Office Supplies",26.50
+999,2016,EU,"Riverleaf Stik-Withit Designer Note Cubes","Office Supplies",90.62
+1000,2016,BZ,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,-20.88
+1001,2021,MX,"Sharp 1540cs Digital Laser Copier",Technology,6.48
+1002,2017,EU,"White GlueTop Scratch Pads","Office Supplies",2.33
+1003,2016,CA,"Xerox 1904","Office Supplies",454.45
+1004,2019,MX,"Dual Level Single-Width Filing Carts",Furniture,15.15
+1005,2016,CA,"Newell 321","Office Supplies",-90.76
+1006,2016,EU,TimeportP7382,Technology,960.98
+1007,2023,CA,"Dual Level Single-Width Filing Carts",Furniture,-13706.46
+1008,2020,EU,"Staples SlimLine Pencil Sharpener","Office Supplies",300.93
+1009,2020,EU,"Imation DVD-RAM discs",Technology,-40.76
+1010,2015,CA,"MicroTAC 650",Technology,-986.52
+1011,2022,CN,"Newell 321","Office Supplies",-141.67
+1012,2020,EU,"Lexmark 4227 Plus Dot Matrix Printer",Technology,47.33
+1013,2020,CA,"Staples SlimLine Pencil Sharpener","Office Supplies",60.56
+1014,2019,CN,"Canon P1-DHIII Palm Printing Calculator",Technology,-47.24
+1015,2021,BZ,"Xerox 1904","Office Supplies",9.15
+1016,2016,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",40.92
+1017,2017,BZ,"3M Organizer Strips",Furniture,149.72
+1018,2020,EU,"Canon P1-DHIII Palm Printing Calculator",Technology,-52.49
+1019,2021,CA,"Xerox 1904","Office Supplies",7.96
+1020,2019,MX,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,-459.08
+1021,2017,EU,"Binding Machine Supplies","Office Supplies",-517.17
+1022,2020,BZ,"Dual Level Single-Width Filing Carts","Office Supplies",-7.61
+1023,2017,CN,"Newell 321","Office Supplies",38.04
+1024,2018,CA,"Fellowes Super Stor/Drawer Files",Furniture,-429.86
+1025,2018,EU,Accessory36,Technology,264.17
+1026,2018,MX,"Xerox 1904","Office Supplies",-47.12
+1027,2019,MX,"Binding Machine Supplies","Office Supplies",-101.25
+1028,2015,MX,"Fellowes Super Stor/Drawer Files",Technology,-1.88
+1029,2022,MX,"Eldon Image Series Black Desk Accessories",Furniture,-11.69
+1030,2022,CN,"Ibico Recycled Linen-Style Covers","Office Supplies",250.98
+1031,2018,EU,"Binding Machine Supplies","Office Supplies",-57.75
+1032,2019,MX,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-47.97
+1033,2019,CN,"CF 688",Technology,-219.08
+1034,2020,EU,"Xerox 1904","Office Supplies",-18.88
+1035,2022,EU,"Avery 501","Office Supplies",369.21
+1036,2017,CA,Accessory36,Technology,19.35
+1037,2015,EU,"Jet-Pak Recycled Peel",Technology,-967.83
+1038,2015,CA,"Xerox 1904","Office Supplies",-28.45
+1039,2022,BZ,"Fellowes Super Stor/Drawer Files",Technology,72.78
+1040,2019,CN,"Avery 501","Office Supplies",13.23
+1041,2015,BZ,"6 Cubicle Wall Clock Black",Furniture,-88.82
+1042,2017,CA,"Tyvek  Top-Opening Peel Seel  Envelopes Gray","Office Supplies",15.35
+1043,2017,BZ,"Xerox 1904","Office Supplies",-357.92
+1044,2015,EU,"T28 WORLD",Technology,34.30
+1045,2018,CA,"Xerox 1904","Office Supplies",-7.96
+1046,2015,CN,"Epson C82 Color Inkjet Printer",Technology,4407.44
+1047,2019,CN,"Space Solutions Commercial Steel Shelving","Office Supplies",-1025.02
+1048,2022,BZ,"Chromcraft Rectangular Conference Tables",Furniture,429.75
+1049,2019,CN,"Global High-Back Leather Tilter Burgundy",Furniture,588.54
+1050,2016,CN,"Executive Impressions 12 Wall Clock",Furniture,2653.29
+1051,2018,CN,"Newell 321","Office Supplies",-1.84
+1052,2020,BZ,"Quality Park Security Envelopes","Office Supplies",237.04
+1053,2018,CN,"Binding Machine Supplies","Office Supplies",2502.69
+1054,2017,BZ,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",0.69
+1055,2022,MX,"Binding Machine Supplies","Office Supplies",36.91
+1056,2018,BZ,TimeportP7382,Technology,-216.03
+1057,2021,CN,SC7868i,Technology,-45.47
+1058,2023,CN,"Executive Impressions 12 Wall Clock",Furniture,16.14
+1059,2016,CA,"Executive Impressions 12 Wall Clock",Furniture,-29.61
+1060,2020,CN,"Avery 501","Office Supplies",125.72
+1061,2020,CN,"T28 WORLD",Technology,114.88
+1062,2021,CN,"Belkin 105-Key Black Keyboard",Furniture,-14.45
+1063,2019,MX,"Binding Machine Supplies","Office Supplies",-42.55
+1064,2016,CN,"Binding Machine Supplies","Office Supplies",14.00
+1065,2019,BZ,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,52.99
+1066,2016,CN,"Belkin 105-Key Black Keyboard","Office Supplies",285.47
+1067,2019,EU,"Brother DCP1000 Digital 3 in 1 Multifunction Machine","Office Supplies",10.51
+1068,2021,EU,"Dual Level Single-Width Filing Carts",Furniture,1448.73
+1069,2021,CA,"Advantus Plastic Paper Clips","Office Supplies",1.00
+1070,2019,MX,"Adesso Programmable 142-Key Keyboard",Technology,-521.09
+1071,2022,CN,"Acme Elite Stainless Steel Scissors","Office Supplies",-29.49
+1072,2022,BZ,"Hon Valutask Swivel Chairs","Office Supplies",386.01
+1073,2021,MX,"Global High-Back Leather Tilter Burgundy",Furniture,-1867.97
+1074,2019,CA,"Eldon Image Series Black Desk Accessories",Furniture,-1920.93
+1075,2018,MX,"Xerox 1904","Office Supplies",-37.18
+1076,2023,CN,"Bush Mission Pointe Library",Furniture,-213.40
+1077,2023,BZ,"Xerox 1904","Office Supplies",-15.48
+1078,2021,BZ,"Targus USB Numeric Keypad",Technology,-50.25
+1079,2016,CN,"MicroTAC 650",Technology,-387.10
+1080,2015,CA,"Belkin 105-Key Black Keyboard",Technology,-55.97
+1081,2019,EU,"Canon P1-DHIII Palm Printing Calculator",Furniture,-66.25
+1082,2017,CA,"Harmony HEPA Quiet Air Purifiers","Office Supplies",-171.16
+1083,2020,CA,"Xerox 1904","Office Supplies",624.24
+1084,2016,MX,"Xerox 1904","Office Supplies",-14.32
+1085,2017,MX,"Xerox 1904","Office Supplies",604.02
+1086,2021,EU,"Xerox 1904","Office Supplies",-11.63
+1087,2015,CN,"Hon Valutask Swivel Chairs","Office Supplies",442.37
+1088,2023,EU,"Personal Creations Ink Jet Cards and Labels","Office Supplies",-259.76
+1089,2018,BZ,"Executive Impressions 12 Wall Clock",Furniture,1469.73
+1090,2023,CN,"Dual Level Single-Width Filing Carts",Technology,-83.55
+1091,2022,CN,"Keytronic 105-Key Spanish Keyboard","Office Supplies",-16.89
+1092,2021,EU,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",25.51
+1093,2017,EU,"Hon Valutask Swivel Chairs",Furniture,-850.65
+1094,2017,CN,"Newell 321","Office Supplies",98.53
+1095,2018,BZ,"Xerox 1904","Office Supplies",214.23
+1096,2017,EU,Accessory36,Technology,21.88
+1097,2018,BZ,"Imation DVD-RAM discs",Technology,290.20
+1098,2020,EU,"Eldon Image Series Black Desk Accessories","Office Supplies",12.15
+1099,2019,CN,"Belkin 105-Key Black Keyboard",Technology,5.69
+1100,2022,EU,"3M Organizer Strips",Furniture,-181.10
+1101,2022,CA,"Hon Valutask Swivel Chairs",Furniture,882.93
+1102,2021,EU,"Southworth Structures Collection","Office Supplies",6.68
+1103,2019,EU,"Belkin 105-Key Black Keyboard",Technology,46.29
+1104,2019,CN,"White GlueTop Scratch Pads","Office Supplies",177.79
+1105,2018,CA,"Sanford Pocket Accent Highlighters","Office Supplies",-14.99
+1106,2018,CA,"Xerox 1904","Office Supplies",638.38
+1107,2023,BZ,5170i,Technology,17.65
+1108,2017,MX,"Maxell DVD-RAM Discs",Technology,739.67
+1109,2015,CA,"Binding Machine Supplies","Office Supplies",-23.16
+1110,2016,CA,"Grip Seal Envelopes","Office Supplies",-10.44
+1111,2022,MX,"Binding Machine Supplies","Office Supplies",-78.92
+1112,2018,CN,"Polycom ViaVideo Desktop Video Communications Unit",Technology,-13562.64
+1113,2015,MX,"Xerox 1904","Office Supplies",-63.35
+1114,2019,CN,"Staples SlimLine Pencil Sharpener","Office Supplies",-8.90
+1115,2021,EU,"Staples SlimLine Pencil Sharpener",Technology,88.72
+1116,2022,CA,"Avery 501","Office Supplies",7.25
+1117,2019,CN,"Xerox 1904","Office Supplies",-191.49
+1118,2015,MX,"O Sullivan Elevations Bookcase Cherry Finish",Furniture,-1330.50
+1119,2020,CA,"Canon P1-DHIII Palm Printing Calculator",Technology,1320.55
+1120,2017,CA,"6 Cubicle Wall Clock Black",Technology,1585.50
+1121,2019,EU,"Xerox 1904","Office Supplies",526.04
+1122,2015,MX,"Revere Boxed Rubber Bands by Revere","Office Supplies",-40.43
+1123,2021,MX,"Keytronic 105-Key Spanish Keyboard",Technology,-88.61
+1124,2020,CN,"Xerox 1904","Office Supplies",109.16
+1125,2015,EU,Accessory36,Technology,-136.12
+1126,2017,CN,"Xerox 1904","Office Supplies",-27.38
+1127,2017,EU,"Brother DCP1000 Digital 3 in 1 Multifunction Machine",Furniture,-435.76
+1128,2022,BZ,"Bush Mission Pointe Library",Furniture,682.53
+1129,2021,EU,"T28 WORLD",Technology,-277.22
+1130,2021,BZ,"Dual Level Single-Width Filing Carts",Technology,-266.69
+1131,2022,MX,"Newell 321","Office Supplies",-12.28
+1132,2022,MX,"Dual Level Single-Width Filing Carts",Technology,265.11
+1133,2022,BZ,"Coloredge Poster Frame","Office Supplies",9.56
+1134,2021,CA,Accessory36,Technology,390.10
+1135,2021,CA,"Xerox 1904","Office Supplies",46.65
+1136,2017,MX,"Dual Level Single-Width Filing Carts",Technology,-1250.75
+1137,2018,CN,"Eldon Image Series Black Desk Accessories","Office Supplies",374.90
+1138,2021,CA,TimeportP7382,Technology,-528.84
+1139,2016,BZ,"Dual Level Single-Width Filing Carts",Furniture,-272.71
+1140,2020,CA,"Binding Machine Supplies","Office Supplies",-162.69
+1141,2022,CA,"Hon Valutask Swivel Chairs",Furniture,-115.90
+1142,2015,CN,"Gyration Ultra Professional Cordless Optical Suite",Technology,-729.99
+1143,2019,BZ,"Binding Machine Supplies","Office Supplies",-133.55
+1144,2022,CA,"1726 Digital Answering Machine",Technology,272.69
+1145,2019,CN,"Binding Machine Supplies","Office Supplies",-61.60
+1146,2022,BZ,"Targus USB Numeric Keypad",Technology,66.85
+1147,2019,CA,Accessory36,Technology,17.84
+1148,2021,MX,"Imation DVD-RAM discs",Technology,976.27
+1149,2019,CN,"Avery 501","Office Supplies",23.20
+1150,2020,BZ,"Jet-Pak Recycled Peel",Technology,183.84
+1151,2021,EU,"High Speed Automatic Electric Letter Opener","Office Supplies",167.46
+1152,2018,CA,"Dual Level Single-Width Filing Carts",Furniture,1307.27
+1153,2021,CN,"Ultra Door Pull Handle",Furniture,-15.82
+1154,2016,CN,"Xerox 1904","Office Supplies",-55.83
+1155,2018,EU,"Hon Valutask Swivel Chairs",Furniture,550.38
+1156,2021,CN,"Binding Machine Supplies","Office Supplies",1.68
+1157,2022,EU,"Fellowes Super Stor/Drawer Files","Office Supplies",450.46
+1158,2017,CN,"Hewlett Packard 6S Scientific Calculator",Technology,8798.18
+1159,2017,CN,"Unpadded Memo Slips","Office Supplies",-5.39
+1160,2023,EU,"Brother DCP1000 Digital 3 in 1 Multifunction Machine",Furniture,3031.97
+1161,2021,MX,"Gyration Ultra Professional Cordless Optical Suite",Technology,138.02
+1162,2022,BZ,"Ultra Door Pull Handle",Furniture,38.87
+1163,2016,CN,"Acco Hot Clips Clips to Go","Office Supplies",-45.53
+1164,2015,BZ,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,567.59
+1165,2017,BZ,"Xerox 1904","Office Supplies",-28.45
+1166,2016,MX,"Xerox 1904","Office Supplies",-14.23
+1167,2018,CN,"Sanford Liquid Accent Highlighters","Office Supplies",-601.80
+1168,2015,EU,"Staples SlimLine Pencil Sharpener","Office Supplies",38.41
+1169,2018,CA,"Hon Valutask Swivel Chairs",Furniture,53.11
+1170,2015,CA,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",8.74
+1171,2022,MX,"Belkin 105-Key Black Keyboard",Furniture,636.52
+1172,2021,CA,"Hon Valutask Swivel Chairs",Furniture,4554.43
+1173,2018,BZ,"StarTAC 7797",Technology,618.19
+1174,2016,BZ,"Lexmark 4227 Plus Dot Matrix Printer",Technology,-15.18
+1175,2021,CA,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,-61.19
+1176,2020,CA,"Belkin 105-Key Black Keyboard",Furniture,18.17
+1177,2022,MX,"Xerox 1904","Office Supplies",-49.53
+1178,2021,BZ,"Bush Mission Pointe Library",Furniture,-407.85
+1179,2017,BZ,"Fellowes Super Stor/Drawer Files",Technology,-191.26
+1180,2020,CA,"Fellowes Super Stor/Drawer Files",Technology,196.52
+1181,2018,MX,"Adams Phone Message Book","Office Supplies",-343.87
+1182,2019,CN,"Epson C82 Color Inkjet Printer",Technology,-3971.06
+1183,2017,BZ,"Binding Machine Supplies","Office Supplies",-18.48
+1184,2021,EU,"Sharp 1540cs Digital Laser Copier",Technology,-381.84
+1185,2017,MX,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",12.55
+1186,2016,EU,"Binding Machine Supplies","Office Supplies",45.33
+1187,2021,BZ,"Advantus Plastic Paper Clips","Office Supplies",33.66
+1188,2018,EU,"Canon P1-DHIII Palm Printing Calculator",Furniture,15.68
+1189,2016,MX,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",52.78
+1190,2020,MX,"Hon Valutask Swivel Chairs",Furniture,-162.82
+1191,2021,CN,"Binding Machine Supplies","Office Supplies",-6.93
+1192,2022,MX,"Eldon Image Series Black Desk Accessories",Furniture,-118.54
+1193,2020,EU,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,2963.48
+1194,2017,MX,"Advantus Plastic Paper Clips",Furniture,398.30
+1195,2021,BZ,"Panasonic KX-P2130 Dot Matrix Printer",Technology,709.85
+1196,2022,EU,"Hon Valutask Swivel Chairs",Furniture,80.81
+1197,2018,CN,"Xerox 1904","Office Supplies",371.27
+1198,2019,CA,"Hon Valutask Swivel Chairs",Furniture,77.00
+1199,2015,BZ,Accessory36,Technology,27.97
+1200,2020,BZ,"Acco Hot Clips Clips to Go","Office Supplies",-66.78
+1201,2019,MX,"Newell 321","Office Supplies",-144.92
+1202,2016,EU,"Newell 321","Office Supplies",-5.07
+1203,2017,EU,"Newell 321","Office Supplies",-1.18
+1204,2019,CA,"Binding Machine Supplies","Office Supplies",-203.10
+1205,2023,CA,"Brother DCP1000 Digital 3 in 1 Multifunction Machine","Office Supplies",-48.57
+1206,2023,EU,"Brother DCP1000 Digital 3 in 1 Multifunction Machine","Office Supplies",-48.57
+1207,2019,EU,"Stanley Bostitch Contemporary Electric Pencil Sharpeners","Office Supplies",-47.28
+1208,2019,EU,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,722.24
+1209,2021,MX,"Stanley Bostitch Contemporary Electric Pencil Sharpeners","Office Supplies",-161.00
+1210,2020,EU,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,848.36
+1211,2018,BZ,"Belkin 105-Key Black Keyboard",Technology,-88.84
+1212,2019,CN,"Motorola SB4200 Cable Modem",Technology,1208.99
+1213,2021,CN,"Fellowes Super Stor/Drawer Files","Office Supplies",9.99
+1214,2021,CA,"Gyration Ultra Professional Cordless Optical Suite",Technology,126.23
+1215,2019,MX,"Zoom V.92 USB External Faxmodem",Furniture,187.76
+1216,2019,CN,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",295.91
+1217,2023,BZ,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-2111.36
+1218,2017,MX,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,-9.13
+1219,2022,EU,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,357.43
+1220,2018,BZ,"Avery 501","Office Supplies",40.35
+1221,2019,EU,"Rediform S.O.S. Phone Message Books","Office Supplies",27.63
+1222,2021,CN,"Panasonic KX-P2130 Dot Matrix Printer",Technology,751.58
+1223,2017,BZ,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,-663.51
+1224,2022,CA,"Dual Level Single-Width Filing Carts",Furniture,-157.56
+1225,2017,MX,"Hon Valutask Swivel Chairs",Furniture,-88.00
+1226,2020,EU,"Dual Level Single-Width Filing Carts",Technology,-35.29
+1227,2017,CN,"3M Organizer Strips",Technology,-74.88
+1228,2019,BZ,"Adams Phone Message Book","Office Supplies",-98.06
+1229,2017,CA,"Safco Industrial Wire Shelving","Office Supplies",-425.21
+1230,2021,EU,"Canon P1-DHIII Palm Printing Calculator",Technology,631.33
+1231,2016,CN,"Newell 321","Office Supplies",-22.18
+1232,2017,CN,"Harmony HEPA Quiet Air Purifiers",Technology,-214.10
+1233,2020,CN,"Xerox 1904","Office Supplies",-26.94
+1234,2017,MX,"Coloredge Poster Frame",Furniture,-324.73
+1235,2018,CN,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,1500.12
+1236,2020,EU,"Fellowes Super Stor/Drawer Files","Office Supplies",-313.02
+1237,2017,EU,"Eldon Image Series Black Desk Accessories",Furniture,-192.55
+1238,2019,EU,"Avery 501","Office Supplies",-464.28
+1239,2019,BZ,"Xerox 1904","Office Supplies",156.74
+1240,2021,CA,"Xerox 1904","Office Supplies",110.12
+1241,2023,CN,"Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge","Office Supplies",-42.59
+1242,2021,EU,"Novimex Fabric Task Chair",Furniture,-222.95
+1243,2018,CN,"HP Office Paper (20Lb. and 87 Bright)","Office Supplies",7.62
+1244,2021,EU,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",-1676.61
+1245,2022,MX,"Hewlett Packard 6S Scientific Calculator",Technology,45.13
+1246,2021,CN,"Avery 501","Office Supplies",-52.86
+1247,2017,CN,Accessory36,Technology,45.38
+1248,2019,MX,"Avery 501","Office Supplies",4949.92
+1249,2022,CA,"Epson C82 Color Inkjet Printer",Technology,1055.60
+1250,2015,CN,"Keytronic 105-Key Spanish Keyboard","Office Supplies",359.83
+1251,2019,CN,"Acco Hot Clips Clips to Go","Office Supplies",-69.87
+1252,2016,CA,"Xerox 1904","Office Supplies",-135.74
+1253,2015,CA,"Holmes Odor Grabber","Office Supplies",-14.52
+1254,2022,CN,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",171.26
+1255,2018,CA,"Belkin 105-Key Black Keyboard",Furniture,138.22
+1256,2018,MX,"Keytronic 105-Key Spanish Keyboard","Office Supplies",711.24
+1257,2017,EU,"Dual Level Single-Width Filing Carts","Office Supplies",-1084.85
+1258,2022,CN,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,-156.77
+1259,2018,BZ,"Acme Elite Stainless Steel Scissors","Office Supplies",-37.60
+1260,2023,CN,"Belkin 105-Key Black Keyboard","Office Supplies",1389.58
+1261,2016,CN,Accessory36,Technology,-222.82
+1262,2016,BZ,"Fellowes Super Stor/Drawer Files",Furniture,-133.71
+1263,2022,BZ,"T28 WORLD",Technology,2653.78
+1264,2019,EU,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",10.32
+1265,2019,BZ,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,997.38
+1266,2015,CA,"Xerox 1904","Office Supplies",-36.03
+1267,2016,MX,"Harmony HEPA Quiet Air Purifiers","Office Supplies",-28.95
+1268,2021,BZ,"Polycom ViaVideo Desktop Video Communications Unit","Office Supplies",-85.02
+1269,2020,BZ,"Avery 501","Office Supplies",99.20
+1270,2020,CN,"Array Memo Cubes","Office Supplies",136.03
+1271,2020,CN,"HP Office Paper (20Lb. and 87 Bright)","Office Supplies",-100.07
+1272,2020,CN,"High Speed Automatic Electric Letter Opener","Office Supplies",-12.03
+1273,2019,BZ,"Xerox 1904","Office Supplies",122.51
+1274,2018,BZ,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",-12.03
+1275,2016,CA,"Decoflex Hanging Personal Folder File","Office Supplies",34.07
+1276,2015,CA,"Dual Level Single-Width Filing Carts",Furniture,2.97
+1277,2020,BZ,"Belkin 105-Key Black Keyboard","Office Supplies",385.30
+1278,2016,EU,"Holmes Odor Grabber","Office Supplies",187.20
+1279,2020,CA,"Logitech Access Keyboard",Technology,779.47
+1280,2019,CA,"Global High-Back Leather Tilter Burgundy",Furniture,27.73
+1281,2020,CA,"Round Specialty Laser Printer Labels","Office Supplies",244.46
+1282,2015,MX,"Belkin 105-Key Black Keyboard",Furniture,-473.58
+1283,2019,EU,"Global High-Back Leather Tilter Burgundy",Furniture,-96.05
+1284,2021,EU,"Belkin 105-Key Black Keyboard",Furniture,-270.85
+1285,2020,BZ,"Tyvek  Top-Opening Peel Seel  Envelopes Gray","Office Supplies",800.26
+1286,2021,MX,"DAX Solid Wood Frames",Furniture,-50.40
+1287,2018,BZ,"Fellowes Super Stor/Drawer Files","Office Supplies",-348.75
+1288,2018,CA,"Holmes Odor Grabber","Office Supplies",-550.43
+1289,2015,BZ,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",-52.12
+1290,2021,CN,"Imation DVD-RAM discs",Technology,-27.01
+1291,2022,CN,"Binding Machine Supplies","Office Supplies",74.64
+1292,2017,BZ,"Global High-Back Leather Tilter Burgundy",Furniture,-122.24
+1293,2015,BZ,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,427.01
+1294,2017,CA,"Holmes Odor Grabber","Office Supplies",-190.49
+1295,2022,MX,"Newell 321","Office Supplies",-8.77
+1296,2018,CN,"Rubber Band Ball","Office Supplies",-7.69
+1297,2022,BZ,"Eldon Image Series Black Desk Accessories",Furniture,-82.56
+1298,2021,BZ,"Binding Machine Supplies","Office Supplies",18.15
+1299,2022,EU,"Personal Creations Ink Jet Cards and Labels","Office Supplies",2.81
+1300,2018,CN,"Executive Impressions 12 Wall Clock",Furniture,-132.43
+1301,2020,EU,"Belkin 105-Key Black Keyboard",Furniture,-411.24
+1302,2023,EU,"Panasonic KX-P2130 Dot Matrix Printer",Technology,-48.97
+1303,2016,CN,"Boston 16765 Mini Stand Up Battery Pencil Sharpener",Furniture,62.30
+1304,2016,CN,"Xerox 1904","Office Supplies",-119.32
+1305,2023,EU,"Advantus Plastic Paper Clips","Office Supplies",756.67
+1306,2020,CN,"T28 WORLD",Technology,-222.34
+1307,2023,BZ,"Dual Level Single-Width Filing Carts",Furniture,-1537.14
+1308,2020,CN,"Newell 321","Office Supplies",52.70
+1309,2017,CN,Accessory36,Technology,-78.19
+1310,2020,MX,"Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock",Furniture,465.44
+1311,2022,CA,"Belkin 105-Key Black Keyboard",Furniture,-89.27
+1312,2019,CA,"Coloredge Poster Frame",Furniture,385.37
+1313,2015,MX,TimeportP7382,Technology,147.00
+1314,2017,CA,"Acme Elite Stainless Steel Scissors","Office Supplies",-1045.02
+1315,2017,CA,"Polycom ViaVideo Desktop Video Communications Unit","Office Supplies",167.16
+1316,2016,BZ,"Staples SlimLine Pencil Sharpener",Technology,-344.82
+1317,2022,EU,"DAX Solid Wood Frames",Furniture,-61.53
+1318,2016,MX,"Xerox 1904","Office Supplies",-41.97
+1319,2015,BZ,"Newell 321","Office Supplies",-1.56
+1320,2022,CA,"Newell 321","Office Supplies",-100.24
+1321,2021,MX,"Binding Machine Supplies","Office Supplies",-262.62
+1322,2020,CN,"Binding Machine Supplies","Office Supplies",1019.71
+1323,2023,CN,"Avery 501","Office Supplies",19.04
+1324,2020,CA,"Holmes Odor Grabber","Office Supplies",-1069.72
+1325,2018,BZ,"Avery 501","Office Supplies",19.04
+1326,2023,MX,"Binding Machine Supplies","Office Supplies",1408.19
+1327,2021,CN,"Holmes Odor Grabber","Office Supplies",-1069.72
+1328,2019,CN,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,2000.11
+1329,2022,MX,"Imation DVD-RAM discs",Technology,-45.64
+1330,2018,EU,"Tyvek  Top-Opening Peel Seel  Envelopes Gray","Office Supplies",204.49
+1331,2020,EU,"Polycom ViaVideo Desktop Video Communications Unit",Technology,-1456.00
+1332,2015,CA,"Xerox 1904","Office Supplies",-22.56
+1333,2022,MX,"Xerox 1904","Office Supplies",-1191.53
+1334,2021,CA,"Eldon Image Series Black Desk Accessories",Furniture,-45.01
+1335,2022,MX,"Binding Machine Supplies","Office Supplies",39.21
+1336,2022,CN,"Binding Machine Supplies","Office Supplies",100.38
+1337,2017,BZ,"Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge","Office Supplies",79.42
+1338,2016,MX,"Dual Level Single-Width Filing Carts","Office Supplies",-15.09
+1339,2021,EU,"StarTAC 7797",Technology,-60.56
+1340,2020,EU,"Dual Level Single-Width Filing Carts","Office Supplies",-1473.91
+1341,2020,BZ,"Canon P1-DHIII Palm Printing Calculator",Technology,-343.13
+1342,2020,CA,"Newell 321","Office Supplies",66.36
+1343,2019,BZ,"Holmes Odor Grabber","Office Supplies",-162.92
+1344,2022,MX,"Binding Machine Supplies","Office Supplies",859.72
+1345,2017,MX,"High Speed Automatic Electric Letter Opener","Office Supplies",-23.07
+1346,2015,CN,"Global High-Back Leather Tilter Burgundy",Furniture,650.30
+1347,2015,BZ,"Avery 501","Office Supplies",-154.31
+1348,2019,EU,"Logitech Access Keyboard",Technology,269.94
+1349,2015,CA,"Advantus Plastic Paper Clips",Furniture,63.06
+1350,2019,BZ,"Hoover WindTunnel Plus Canister Vacuum","Office Supplies",139.58
+1351,2022,EU,"Executive Impressions 12 Wall Clock",Furniture,109.67
+1352,2020,CN,"White GlueTop Scratch Pads","Office Supplies",395.31
+1353,2022,MX,"Avery 501","Office Supplies",104.91
+1354,2018,CN,"SANFORD Major Accent Highlighters","Office Supplies",24.59
+1355,2022,CA,7160,Technology,-458.74
+1356,2017,CN,"Binding Machine Supplies","Office Supplies",-9.18
+1357,2018,MX,"Dual Level Single-Width Filing Carts","Office Supplies",-121.75
+1358,2022,EU,"Dual Level Single-Width Filing Carts","Office Supplies",24.35
+1359,2021,BZ,"3M Organizer Strips","Office Supplies",-34.76
+1360,2018,CN,"Binding Machine Supplies","Office Supplies",-7.34
+1361,2021,BZ,"Lexmark 4227 Plus Dot Matrix Printer",Technology,35.29
+1362,2015,BZ,"Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock",Furniture,-100.17
+1363,2020,BZ,"Imation DVD-RAM discs",Technology,-3.95
+1364,2018,CN,"Avery 501","Office Supplies",1633.99
+1365,2022,MX,"Binding Machine Supplies","Office Supplies",-2002.63
+1366,2019,EU,"Xerox 1904","Office Supplies",-126.21
+1367,2018,CA,"Newell 321","Office Supplies",-5.54
+1368,2021,EU,"Canon P1-DHIII Palm Printing Calculator",Technology,-68.43
+1369,2023,EU,"Motorola SB4200 Cable Modem",Technology,733.28
+1370,2023,BZ,"Decoflex Hanging Personal Folder File",Furniture,-905.99
+1371,2016,CA,"Binding Machine Supplies","Office Supplies",-21.63
+1372,2017,MX,"Xerox 1904","Office Supplies",-35.04
+1373,2022,CA,"High Speed Automatic Electric Letter Opener","Office Supplies",5.98
+1374,2017,CN,"Xerox 1904","Office Supplies",-35.04
+1375,2017,MX,"Personal Creations Ink Jet Cards and Labels","Office Supplies",149.53
+1376,2023,MX,"Eldon Image Series Black Desk Accessories",Furniture,608.26
+1377,2021,MX,"Hon Valutask Swivel Chairs",Furniture,-570.17
+1378,2016,BZ,"Binding Machine Supplies","Office Supplies",1.28
+1379,2016,CN,"Avery 501","Office Supplies",424.29
+1380,2018,BZ,"Binding Machine Supplies","Office Supplies",-3.72
+1381,2015,CA,"Sharp 1540cs Digital Laser Copier",Technology,101.97
+1382,2015,MX,"Xerox 1904","Office Supplies",-16.63
+1383,2022,EU,"Avery 501","Office Supplies",765.75
+1384,2021,CA,"Jet-Pak Recycled Peel",Technology,-335.04
+1385,2023,EU,"Avery 501","Office Supplies",35.28
+1386,2023,CA,"Binding Machine Supplies","Office Supplies",-188.03
+1387,2016,MX,"Xerox 1904","Office Supplies",322.12
+1388,2017,BZ,"Fellowes Super Stor/Drawer Files","Office Supplies",366.54
+1389,2020,EU,"Dual Level Single-Width Filing Carts",Furniture,-439.91
+1390,2017,CA,"StarTAC 7797",Technology,1087.72
+1391,2022,CA,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,9.20
+1392,2016,BZ,"Avery 501","Office Supplies",257.08
+1393,2015,BZ,"Newell 321","Office Supplies",0.79
+1394,2017,MX,"3M Organizer Strips",Furniture,88.56
+1395,2019,MX,"Avery 501","Office Supplies",12.73
+1396,2021,EU,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",160.81
+1397,2022,MX,"Lexmark 4227 Plus Dot Matrix Printer",Technology,-1596.75
+1398,2020,BZ,"Smead Adjustable Mobile File Trolley with Lockable Top","Office Supplies",1388.36
+1399,2018,EU,"6 Cubicle Wall Clock Black",Technology,109.84
+1400,2020,MX,"Brother DCP1000 Digital 3 in 1 Multifunction Machine",Furniture,-93.85
+1401,2017,CA,"TDK 4.7GB DVD-R",Technology,82.70
+1402,2016,MX,"Brother DCP1000 Digital 3 in 1 Multifunction Machine",Furniture,-93.85
+1403,2021,BZ,"Newell 321","Office Supplies",0.37
+1404,2017,MX,"Smead Adjustable Mobile File Trolley with Lockable Top","Office Supplies",1947.67
+1405,2022,CN,"6 Cubicle Wall Clock Black",Technology,109.84
+1406,2021,CA,"TDK 4.7GB DVD-R",Technology,128.03
+1407,2017,EU,"Avery 501","Office Supplies",31.75
+1408,2018,EU,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",117.21
+1409,2016,MX,"Newell 321","Office Supplies",0.37
+1410,2019,MX,"Hon Valutask Swivel Chairs",Furniture,1240.25
+1411,2023,EU,"Boston 16765 Mini Stand Up Battery Pencil Sharpener",Furniture,-533.23
+1412,2022,EU,"Eldon Image Series Black Desk Accessories",Furniture,-61.59
+1413,2019,CN,"Newell 321","Office Supplies",-46.25
+1414,2018,EU,"Hon Valutask Swivel Chairs",Furniture,1240.25
+1415,2022,EU,"Eldon Image Series Black Desk Accessories",Furniture,-32.03
+1416,2021,CN,"Binding Machine Supplies","Office Supplies",-45.82
+1417,2021,EU,"Staples SlimLine Pencil Sharpener","Office Supplies",30.63
+1418,2016,EU,"Xerox 1904","Office Supplies",-6.84
+1419,2017,MX,"Canon P1-DHIII Palm Printing Calculator",Technology,7024.21
+1420,2022,MX,"Binding Machine Supplies","Office Supplies",-137.49
+1421,2017,EU,"Xerox 1904","Office Supplies",308.67
+1422,2019,MX,"Xerox 1904","Office Supplies",-223.94
+1423,2019,CA,"Advantus Plastic Paper Clips","Office Supplies",36.50
+1424,2022,EU,"Xerox 1904","Office Supplies",255.77
+1425,2021,BZ,5170i,Technology,1656.66
+1426,2019,BZ,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,2639.01
+1427,2022,EU,"Personal Creations Ink Jet Cards and Labels","Office Supplies",395.76
+1428,2020,CA,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",-39.40
+1429,2019,BZ,"Targus USB Numeric Keypad",Technology,-89.50
+1430,2022,EU,"EcoTones Memo Sheets","Office Supplies",28.40
+1431,2017,BZ,Accessory36,Technology,103.27
+1432,2016,MX,"Avery 501","Office Supplies",215.72
+1433,2019,CN,"Dual Level Single-Width Filing Carts","Office Supplies",106.98
+1434,2019,CA,"Artistic Insta-Plaque",Furniture,3.54
+1435,2021,MX,"T28 WORLD",Technology,40.28
+1436,2015,MX,"Dual Level Single-Width Filing Carts",Technology,90.02
+1437,2020,CN,"Xerox 1904","Office Supplies",2.23
+1438,2016,MX,Accessory36,Technology,840.05
+1439,2022,CA,"Xerox 1904","Office Supplies",61.47
+1440,2019,CN,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",18.27
+1441,2020,BZ,"Bush Mission Pointe Library",Furniture,-513.79
+1442,2016,EU,"Coloredge Poster Frame","Office Supplies",23.87
+1443,2017,EU,"Xerox 1904","Office Supplies",61.47
+1444,2018,CA,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",18.27
+1445,2020,MX,"Bush Mission Pointe Library",Furniture,-513.79
+1446,2020,CN,"Coloredge Poster Frame","Office Supplies",35.81
+1447,2023,MX,Accessory36,Technology,265.96
+1448,2021,CA,"GE 4 Foot Flourescent Tube 40 Watt","Office Supplies",-20.32
+1449,2018,CA,"Coloredge Poster Frame","Office Supplies",-88.04
+1450,2017,MX,"Binding Machine Supplies","Office Supplies",180.23
+1451,2017,EU,"Avery 501","Office Supplies",29.53
+1452,2022,CN,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,1261.47
+1453,2015,EU,"Binding Machine Supplies","Office Supplies",-59.96
+1454,2021,CA,"Aluminum Document Frame",Furniture,89.41
+1455,2021,MX,"Binding Machine Supplies","Office Supplies",27.03
+1456,2016,EU,"Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac","Office Supplies",-150.26
+1457,2019,EU,"Executive Impressions 12 Wall Clock",Furniture,4899.13
+1458,2019,MX,"DAX Solid Wood Frames",Furniture,44.71
+1459,2016,EU,"Decoflex Hanging Personal Folder File",Furniture,-22.63
+1460,2019,CA,"Executive Impressions 12 Wall Clock",Furniture,4260.11
+1461,2018,EU,"Decoflex Hanging Personal Folder File",Furniture,-25.14
+1462,2019,MX,"Avery 501","Office Supplies",309.71
+1463,2016,CA,"Binding Machine Supplies","Office Supplies",-128.86
+1464,2016,BZ,"Bagged Rubber Bands",Furniture,-36.95
+1465,2016,EU,"Bush Mission Pointe Library",Furniture,-274.50
+1466,2020,CN,"Regeneration Desk Collection",Furniture,0.59
+1467,2019,BZ,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,-251.40
+1468,2018,CN,"TOPS Voice Message Log Book Flash Format","Office Supplies",-2.35
+1469,2019,BZ,"Avery 501","Office Supplies",67.61
+1470,2018,BZ,"Xerox 1904","Office Supplies",-46.52
+1471,2020,BZ,"Executive Impressions 12 Wall Clock",Furniture,200.02
+1472,2016,CN,"Smead Adjustable Mobile File Trolley with Lockable Top","Office Supplies",-39.61
+1473,2022,CA,Accessory36,Technology,311.73
+1474,2017,BZ,"Acme Elite Stainless Steel Scissors","Office Supplies",-50.75
+1475,2019,EU,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,2225.08
+1476,2017,CN,"Panasonic KX-P2130 Dot Matrix Printer",Technology,-338.18
+1477,2020,MX,"3M Organizer Strips","Office Supplies",-136.25
+1478,2022,EU,"Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac","Office Supplies",-25.76
+1479,2021,CN,"Coloredge Poster Frame","Office Supplies",-45.21
+1480,2019,CN,"Brother DCP1000 Digital 3 in 1 Multifunction Machine","Office Supplies",-286.25
+1481,2018,EU,"Security-Tint Envelopes","Office Supplies",16.12
+1482,2022,MX,"6 Cubicle Wall Clock Black",Technology,-815.90
+1483,2018,BZ,"Newell 321","Office Supplies",15.81
+1484,2020,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",29.17
+1485,2018,CA,"Decoflex Hanging Personal Folder File","Office Supplies",-48.97
+1486,2016,EU,"Fellowes Super Stor/Drawer Files","Office Supplies",84.05
+1487,2018,BZ,"Staples SlimLine Pencil Sharpener","Office Supplies",17.84
+1488,2015,CN,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",-20.22
+1489,2015,EU,"Fellowes Super Stor/Drawer Files","Office Supplies",381.62
+1490,2017,EU,"Sanford 52201 APSCO Electric Pencil Sharpener","Office Supplies",-177.06
+1491,2015,CA,"Avery 501","Office Supplies",164.08
+1492,2022,BZ,"Avery 501","Office Supplies",-54.63
+1493,2016,CN,"Eldon Image Series Black Desk Accessories",Furniture,690.18
+1494,2022,EU,"Eldon Image Series Black Desk Accessories",Furniture,1507.64
+1495,2015,MX,"Panasonic KX-P2130 Dot Matrix Printer",Technology,801.75
+1496,2020,CA,"Jet-Pak Recycled Peel",Technology,-139.18
+1497,2023,MX,"Gyration Ultra Professional Cordless Optical Suite",Technology,881.47
+1498,2021,EU,"Avery 501","Office Supplies",3.84
+1499,2015,CN,"Staples SlimLine Pencil Sharpener","Office Supplies",-21.03
+1500,2018,EU,"Eldon Image Series Black Desk Accessories",Furniture,117.52
+1501,2020,CN,"MicroTAC 650",Technology,-30.81
+1502,2017,CA,Accessory36,Technology,524.32
+1503,2018,MX,"Xerox 1904","Office Supplies",21.78
+1504,2018,BZ,"Imation DVD-RAM discs",Technology,-98.35
+1505,2022,BZ,"Harmony HEPA Quiet Air Purifiers",Furniture,270.79
+1506,2016,CN,"Global High-Back Leather Tilter Burgundy",Furniture,223.42
+1507,2018,MX,"Coloredge Poster Frame","Office Supplies",-93.93
+1508,2018,MX,"Dual Level Single-Width Filing Carts","Office Supplies",-321.51
+1509,2019,CN,"Keytronic 105-Key Spanish Keyboard","Office Supplies",246.27
+1510,2020,EU,"Xerox 1904","Office Supplies",93.95
+1511,2017,EU,"Executive Impressions 12 Wall Clock",Furniture,29.98
+1512,2019,EU,"Xerox 1904","Office Supplies",-121.20
+1513,2018,CN,"Staples SlimLine Pencil Sharpener","Office Supplies",10.78
+1514,2021,BZ,"Economy Rollaway Files","Office Supplies",2008.71
+1515,2017,BZ,"Model L Table or Wall-Mount Pencil Sharpener","Office Supplies",-80.53
+1516,2023,EU,"Economy Rollaway Files","Office Supplies",-48.96
+1517,2018,MX,"Decoflex Hanging Personal Folder File",Furniture,-32.82
+1518,2022,MX,"Adams Phone Message Book","Office Supplies",-15.61
+1519,2018,EU,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",23.62
+1520,2021,BZ,"High Speed Automatic Electric Letter Opener","Office Supplies",-1748.01
+1521,2021,BZ,"DAX Solid Wood Frames",Furniture,-180.15
+1522,2022,BZ,"Staples SlimLine Pencil Sharpener","Office Supplies",8.39
+1523,2021,CN,"6 Cubicle Wall Clock Black",Technology,9.94
+1524,2022,BZ,"Binding Machine Supplies","Office Supplies",-66.17
+1525,2016,CA,"Avery 501","Office Supplies",51.22
+1526,2018,MX,"Xerox 1904","Office Supplies",380.47
+1527,2016,EU,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,-89.42
+1528,2016,CN,"Eldon Image Series Black Desk Accessories",Furniture,9.25
+1529,2015,EU,"Hewlett Packard 6S Scientific Calculator",Technology,-1197.04
+1530,2022,BZ,"Canon P1-DHIII Palm Printing Calculator","Office Supplies",-103.22
+1531,2017,CA,"Hon Valutask Swivel Chairs",Furniture,-84.63
+1532,2015,CN,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",2755.64
+1533,2017,MX,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-256.02
+1534,2015,EU,"Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge","Office Supplies",-41.77
+1535,2016,CA,"Eldon Image Series Black Desk Accessories",Furniture,-1014.11
+1536,2017,EU,"Avery 501","Office Supplies",17.43
+1537,2015,BZ,"Brother DCP1000 Digital 3 in 1 Multifunction Machine",Furniture,-178.87
+1538,2023,MX,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,-74.64
+1539,2015,MX,"Dual Level Single-Width Filing Carts","Office Supplies",65.41
+1540,2016,BZ,"Keytronic 105-Key Spanish Keyboard",Technology,-25.63
+1541,2018,MX,"Xerox 1904","Office Supplies",-37.56
+1542,2017,CA,"Xerox 1904","Office Supplies",-449.69
+1543,2016,CA,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",-66.25
+1544,2022,CA,"Bush Mission Pointe Library",Furniture,501.69
+1545,2022,EU,"Logitech Access Keyboard",Technology,566.61
+1546,2019,EU,"Eldon Image Series Black Desk Accessories","Office Supplies",-57.56
+1547,2017,CA,"Imation DVD-RAM discs",Technology,164.06
+1548,2020,MX,Accessory36,Technology,218.23
+1549,2020,MX,"Bush Mission Pointe Library",Furniture,1049.03
+1550,2019,CA,"Eldon Image Series Black Desk Accessories",Furniture,-102.93
+1551,2020,CN,"Bush Mission Pointe Library",Furniture,1049.03
+1552,2022,CN,"Fellowes Super Stor/Drawer Files","Office Supplies",664.52
+1553,2020,MX,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",105.70
+1554,2019,EU,"Acco Hot Clips Clips to Go","Office Supplies",-21.06
+1555,2020,MX,"DIXON Oriole Pencils","Office Supplies",-5.08
+1556,2021,MX,"Newell 321","Office Supplies",1289.38
+1557,2021,MX,"Keytronic 105-Key Spanish Keyboard","Office Supplies",-191.55
+1558,2019,EU,"Binding Machine Supplies","Office Supplies",-29.00
+1559,2015,EU,"Polycom ViaVideo Desktop Video Communications Unit",Technology,2860.93
+1560,2021,BZ,"Chromcraft Rectangular Conference Tables",Furniture,2692.44
+1561,2022,EU,"Polycom ViaVideo Desktop Video Communications Unit","Office Supplies",2.07
+1562,2018,MX,"Targus USB Numeric Keypad",Technology,111.05
+1563,2018,EU,TimeportP7382,Technology,-1963.75
+1564,2019,EU,Accessory36,Technology,-60.70
+1565,2021,CA,"Personal Creations Ink Jet Cards and Labels","Office Supplies",-37.79
+1566,2020,EU,"Hewlett Packard 6S Scientific Calculator",Technology,7576.11
+1567,2018,MX,"Xerox 1904","Office Supplies",-43.26
+1568,2017,BZ,"Staples SlimLine Pencil Sharpener",Technology,-44.44
+1569,2015,CN,"Newell 321","Office Supplies",4.85
+1570,2021,CN,"Avery 501","Office Supplies",3.59
+1571,2019,EU,"Dual Level Single-Width Filing Carts","Office Supplies",15.81
+1572,2022,CN,"Bagged Rubber Bands","Office Supplies",-69.91
+1573,2016,MX,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,1630.53
+1574,2021,CN,A1228,Technology,-457.16
+1575,2020,BZ,"Binding Machine Supplies","Office Supplies",266.76
+1576,2017,EU,"Imation DVD-RAM discs",Technology,-159.30
+1577,2017,BZ,"Avery 501","Office Supplies",29.88
+1578,2020,CA,"Binding Machine Supplies","Office Supplies",52.76
+1579,2022,MX,"Hewlett Packard 6S Scientific Calculator",Technology,2699.98
+1580,2021,CN,"Dual Level Single-Width Filing Carts","Office Supplies",-170.98
+1581,2021,EU,"Binding Machine Supplies","Office Supplies",-95.62
+1582,2020,EU,"Polycom ViaVideo Desktop Video Communications Unit","Office Supplies",-2.38
+1583,2015,EU,Accessory36,Technology,-18.32
+1584,2017,MX,"Southworth Structures Collection",Technology,-82.64
+1585,2020,CN,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",31.59
+1586,2021,CN,"Panasonic KX-P2130 Dot Matrix Printer","Office Supplies",165.63
+1587,2021,BZ,"Belkin 105-Key Black Keyboard",Technology,19.31
+1588,2019,MX,"Riverleaf Stik-Withit Designer Note Cubes","Office Supplies",0.33
+1589,2019,EU,"X-Rack File for Hanging Folders","Office Supplies",-35.26
+1590,2017,MX,"Staples SlimLine Pencil Sharpener",Technology,322.25
+1591,2017,CN,"Dual Level Single-Width Filing Carts",Furniture,-221.50
+1592,2023,CA,"Targus USB Numeric Keypad",Technology,206.35
+1593,2015,BZ,"Canon P1-DHIII Palm Printing Calculator",Technology,439.79
+1594,2021,CN,"Lexmark 4227 Plus Dot Matrix Printer",Technology,-149.46
+1595,2020,CA,"Panasonic KX-P2130 Dot Matrix Printer","Office Supplies",21.10
+1596,2019,CN,"Artistic Insta-Plaque",Furniture,1166.63
+1597,2017,BZ,"GE 4 Foot Flourescent Tube 40 Watt",Furniture,-40.60
+1598,2015,EU,"Xerox 1904","Office Supplies",-294.08
+1599,2020,MX,"Tyvek  Top-Opening Peel Seel  Envelopes Gray","Office Supplies",55.56
+1600,2022,MX,"DAX Solid Wood Frames",Furniture,-535.33
+1601,2021,BZ,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",-208.72
+1602,2017,EU,"Zoom V.92 USB External Faxmodem",Technology,38.89
+1603,2016,EU,5170i,Technology,719.35
+1604,2020,EU,"Binding Machine Supplies","Office Supplies",-12.88
+1605,2023,EU,"Decoflex Hanging Personal Folder File",Furniture,618.13
+1606,2016,MX,"Polycom ViaVideo Desktop Video Communications Unit",Technology,-14140.70
+1607,2020,BZ,"Newell 321","Office Supplies",-8.88
+1608,2022,EU,"Binding Machine Supplies","Office Supplies",14.75
+1609,2016,CA,"O Sullivan Elevations Bookcase Cherry Finish",Furniture,669.61
+1610,2019,CA,"Newell 321","Office Supplies",213.00
+1611,2023,EU,"High Speed Automatic Electric Letter Opener","Office Supplies",-8.39
+1612,2022,EU,"1726 Digital Answering Machine",Technology,4.90
+1613,2015,MX,"Aluminum Document Frame",Furniture,76.39
+1614,2016,CN,"9-3/4 Diameter Round Wall Clock",Furniture,-36.77
+1615,2020,MX,"Fellowes Super Stor/Drawer Files","Office Supplies",87.03
+1616,2015,EU,"Maxell DVD-RAM Discs",Technology,-582.65
+1617,2017,BZ,"Binding Machine Supplies","Office Supplies",3602.13
+1618,2017,MX,"Maxell DVD-RAM Discs",Technology,-582.65
+1619,2015,CN,"Binding Machine Supplies","Office Supplies",-66.59
+1620,2018,CN,"Avery 501","Office Supplies",441.59
+1621,2018,CN,"Chromcraft Rectangular Conference Tables",Furniture,394.17
+1622,2019,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",13.45
+1623,2021,CA,"Binding Machine Supplies","Office Supplies",4033.61
+1624,2017,CN,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,141.78
+1625,2016,CN,"Staples SlimLine Pencil Sharpener",Technology,74.18
+1626,2016,BZ,"Staples SlimLine Pencil Sharpener",Technology,82.31
+1627,2017,EU,"HP Office Paper (20Lb. and 87 Bright)","Office Supplies",-2.35
+1628,2020,BZ,"Hon Valutask Swivel Chairs",Furniture,1059.29
+1629,2018,EU,"Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac","Office Supplies",-246.28
+1630,2021,MX,"Avery 501","Office Supplies",55.19
+1631,2020,BZ,"DAX Solid Wood Frames",Furniture,-307.30
+1632,2015,MX,"Fellowes Super Stor/Drawer Files",Technology,-16.06
+1633,2016,MX,"Xerox 1904","Office Supplies",-160.38
+1634,2019,CN,"Hoover WindTunnel Plus Canister Vacuum","Office Supplies",732.27
+1635,2015,CA,"Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock",Furniture,270.87
+1636,2019,CA,"Dual Level Single-Width Filing Carts",Technology,333.76
+1637,2015,CN,"Xerox 1904","Office Supplies",-120.59
+1638,2016,CA,"Fellowes Super Stor/Drawer Files",Technology,-12.08
+1639,2021,MX,"Hoover WindTunnel Plus Canister Vacuum","Office Supplies",1231.66
+1640,2016,MX,"Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock",Furniture,219.54
+1641,2018,EU,"Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac","Office Supplies",-185.17
+1642,2020,EU,"Avery 501","Office Supplies",31.13
+1643,2017,CN,"DAX Solid Wood Frames",Furniture,-231.05
+1644,2015,EU,"Hon Valutask Swivel Chairs",Furniture,-165.59
+1645,2018,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",-21.68
+1646,2015,EU,"Dual Level Single-Width Filing Carts",Furniture,4861.06
+1647,2020,BZ,"Xerox 1904","Office Supplies",-83.75
+1648,2018,CA,"Hewlett Packard 6S Scientific Calculator",Technology,565.18
+1649,2016,EU,"Xerox 1904","Office Supplies",-38.72
+1650,2021,CN,"Keytronic 105-Key Spanish Keyboard",Furniture,65.08
+1651,2022,BZ,"Avery 501","Office Supplies",10.96
+1652,2022,CN,"Executive Impressions 12 Wall Clock",Furniture,17.43
+1653,2015,CA,"Fellowes Super Stor/Drawer Files",Technology,-32.67
+1654,2015,MX,"High Speed Automatic Electric Letter Opener","Office Supplies",-13.14
+1655,2021,EU,"Avery 501","Office Supplies",22.31
+1656,2022,CN,"Xerox 1904","Office Supplies",443.02
+1657,2019,BZ,"Epson C82 Color Inkjet Printer",Technology,-1220.91
+1658,2018,CN,"Dual Level Single-Width Filing Carts","Office Supplies",-27.15
+1659,2023,CA,"Dual Level Single-Width Filing Carts",Furniture,-106.34
+1660,2019,EU,"TOPS Voice Message Log Book Flash Format","Office Supplies",44.98
+1661,2018,CN,"Avery 501","Office Supplies",689.33
+1662,2019,CN,"Decoflex Hanging Personal Folder File","Office Supplies",-33.59
+1663,2022,MX,"Newell 321","Office Supplies",69.77
+1664,2016,CN,"Xerox 1904","Office Supplies",-52.82
+1665,2021,MX,"Binding Machine Supplies","Office Supplies",7.31
+1666,2018,CN,"Xerox 1904","Office Supplies",642.99
+1667,2018,EU,"Staples SlimLine Pencil Sharpener","Office Supplies",12.71
+1668,2015,BZ,"Binding Machine Supplies","Office Supplies",28.29
+1669,2016,MX,"Security-Tint Envelopes","Office Supplies",112.12
+1670,2017,CA,"Belkin 105-Key Black Keyboard","Office Supplies",565.39
+1671,2020,BZ,"Global High-Back Leather Tilter Burgundy",Furniture,-230.95
+1672,2017,MX,"Binding Machine Supplies","Office Supplies",-61.63
+1673,2018,CA,"Aluminum Document Frame",Furniture,70.68
+1674,2016,CN,"High Speed Automatic Electric Letter Opener","Office Supplies",95.05
+1675,2020,MX,Accessory36,Technology,224.96
+1676,2016,MX,"Coloredge Poster Frame","Office Supplies",-89.57
+1677,2022,EU,"Dual Level Single-Width Filing Carts","Office Supplies",33.35
+1678,2021,BZ,"Iris Project Case","Office Supplies",-34.59
+1679,2019,CA,"Belkin 105-Key Black Keyboard","Office Supplies",-24.63
+1680,2016,EU,"Dual Level Single-Width Filing Carts","Office Supplies",-536.24
+1681,2017,EU,"Iceberg OfficeWorks 42 Round Tables",Furniture,-125.86
+1682,2016,BZ,"Hoover WindTunnel Plus Canister Vacuum","Office Supplies",36.16
+1683,2021,CN,"MicroTAC 650",Technology,17.10
+1684,2022,CN,TimeportP7382,Technology,1269.38
+1685,2021,BZ,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,137.69
+1686,2018,EU,Accessory36,Technology,882.48
+1687,2020,MX,"Newell 321","Office Supplies",6.38
+1688,2016,MX,"Binding Machine Supplies","Office Supplies",5.30
+1689,2019,BZ,"Binding Machine Supplies","Office Supplies",170.80
+1690,2020,MX,"Avery 501","Office Supplies",16.09
+1691,2020,EU,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",274.08
+1692,2020,BZ,"OIC Thumb-Tacks","Office Supplies",-3.78
+1693,2016,CN,"Avery 501","Office Supplies",10.80
+1694,2016,CN,"Coloredge Poster Frame","Office Supplies",15.25
+1695,2022,BZ,"Fellowes Super Stor/Drawer Files",Furniture,-103.62
+1696,2017,EU,"Xerox 1904","Office Supplies",-57.82
+1697,2019,CN,"Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge","Office Supplies",18.22
+1698,2022,MX,"Xerox 1904","Office Supplies",25.06
+1699,2019,CA,"Fiskars Softgrip Scissors","Office Supplies",11.82
+1700,2016,CN,"Staples SlimLine Pencil Sharpener","Office Supplies",28.15
+1701,2017,BZ,"3M Organizer Strips","Office Supplies",-237.54
+1702,2018,EU,Accessory36,Technology,1037.10
+1703,2020,CA,"Xerox 1904","Office Supplies",-94.59
+1704,2022,CA,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-293.74
+1705,2018,EU,"Binding Machine Supplies","Office Supplies",1039.75
+1706,2015,MX,"Xerox 1904","Office Supplies",-49.19
+1707,2018,BZ,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-152.74
+1708,2016,BZ,"Xerox 1904","Office Supplies",41.30
+1709,2022,EU,"Xerox 1904","Office Supplies",47.61
+1710,2018,EU,"Xerox 1904","Office Supplies",-23.50
+1711,2020,MX,"Hon Valutask Swivel Chairs","Office Supplies",1282.50
+1712,2020,BZ,"US Robotics 56K V.92 External Faxmodem",Technology,17.20
+1713,2017,BZ,"Xerox 1904","Office Supplies",1184.12
+1714,2016,EU,"Hon Valutask Swivel Chairs","Office Supplies",1474.87
+1715,2017,CN,"US Robotics 56K V.92 External Faxmodem",Technology,19.78
+1716,2021,CA,"Xerox 1904","Office Supplies",929.80
+1717,2022,CA,"Staples SlimLine Pencil Sharpener","Office Supplies",-7.25
+1718,2020,EU,"4009 Highlighters by Sanford","Office Supplies",31.20
+1719,2017,EU,"Harmony HEPA Quiet Air Purifiers","Office Supplies",-75.90
+1720,2019,MX,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",52.17
+1721,2017,CN,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,-159.86
+1722,2022,MX,"Xerox 1904","Office Supplies",165.89
+1723,2019,EU,"Acme Elite Stainless Steel Scissors","Office Supplies",75.01
+1724,2017,CN,"Dual Level Single-Width Filing Carts","Office Supplies",2267.22
+1725,2017,EU,"Keytronic 105-Key Spanish Keyboard",Technology,97.16
+1726,2018,EU,"Staples SlimLine Pencil Sharpener","Office Supplies",-20.65
+1727,2019,BZ,"GE 4 Foot Flourescent Tube 40 Watt","Office Supplies",67.86
+1728,2017,CN,"Xerox 1904","Office Supplies",-14.08
+1729,2021,CN,"Hon Valutask Swivel Chairs",Furniture,-78.76
+1730,2022,BZ,"SAFCO Arco Folding Chair",Furniture,1167.38
+1731,2016,BZ,"Jet-Pak Recycled Peel",Technology,402.07
+1732,2020,CN,"Staples SlimLine Pencil Sharpener",Technology,11.95
+1733,2018,CA,"Sharp 1540cs Digital Laser Copier",Technology,1773.61
+1734,2021,EU,Accessory36,Technology,4.18
+1735,2021,CA,"Dual Level Single-Width Filing Carts","Office Supplies",39.13
+1736,2015,CA,"Hon Valutask Swivel Chairs",Furniture,1660.92
+1737,2021,CA,"Hon Valutask Swivel Chairs",Furniture,638.03
+1738,2021,BZ,"Artistic Insta-Plaque",Furniture,138.50
+1739,2023,EU,"Newell 321","Office Supplies",-6.73
+1740,2021,CN,"Executive Impressions 12 Wall Clock",Furniture,-25.38
+1741,2021,CN,"O Sullivan Elevations Bookcase Cherry Finish",Furniture,-203.27
+1742,2019,MX,"Gyration Ultra Professional Cordless Optical Suite",Technology,-807.59
+1743,2020,CA,"Xerox 1904","Office Supplies",118.63
+1744,2020,MX,"4009 Highlighters by Sanford","Office Supplies",23.30
+1745,2018,EU,"Gyration Ultra Professional Cordless Optical Suite",Technology,-807.59
+1746,2019,BZ,"Xerox 1904","Office Supplies",150.72
+1747,2020,EU,"4009 Highlighters by Sanford","Office Supplies",19.42
+1748,2018,MX,"Newell 321","Office Supplies",3.13
+1749,2021,CN,"Fellowes Super Stor/Drawer Files","Office Supplies",1141.07
+1750,2021,BZ,"O Sullivan Elevations Bookcase Cherry Finish",Furniture,-203.27
+1751,2015,MX,"Dual Level Single-Width Filing Carts","Office Supplies",10.01
+1752,2015,CN,"Jet-Pak Recycled Peel",Technology,313.81
+1753,2018,EU,"Binding Machine Supplies","Office Supplies",-39.19
+1754,2022,CN,"High Speed Automatic Electric Letter Opener","Office Supplies",-1.89
+1755,2016,EU,"Zoom V.92 USB External Faxmodem",Technology,4.29
+1756,2021,EU,"Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac","Office Supplies",-122.77
+1757,2019,MX,"Keytronic 105-Key Spanish Keyboard","Office Supplies",683.96
+1758,2018,EU,"Keytronic 105-Key Spanish Keyboard","Office Supplies",-16.64
+1759,2016,EU,"Imation DVD-RAM discs",Technology,-59.73
+1760,2022,MX,"Belkin 105-Key Black Keyboard",Furniture,-633.44
+1761,2019,EU,"Fiskars Softgrip Scissors","Office Supplies",72.98
+1762,2019,CA,"Xerox 1904","Office Supplies",240.18
+1763,2018,CN,"Harmony HEPA Quiet Air Purifiers","Office Supplies",-11.25
+1764,2019,MX,"Avery 501","Office Supplies",9.61
+1765,2021,CN,Accessory36,Technology,-299.81
+1766,2016,CN,"Avery 501","Office Supplies",13.80
+1767,2015,EU,"Xerox 1904","Office Supplies",4.39
+1768,2022,MX,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,-236.25
+1769,2022,MX,"Avery 501","Office Supplies",36.02
+1770,2020,EU,"Xerox 1904","Office Supplies",-50.64
+1771,2015,EU,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,510.49
+1772,2016,MX,"GE 4 Foot Flourescent Tube 40 Watt","Office Supplies",-20.18
+1773,2021,CN,"Xerox 1904","Office Supplies",-156.97
+1774,2022,EU,"Panasonic KX-P2130 Dot Matrix Printer","Office Supplies",384.50
+1775,2020,CN,"Dual Level Single-Width Filing Carts",Furniture,513.08
+1776,2020,MX,"Binding Machine Supplies","Office Supplies",44.52
+1777,2018,CA,"Binding Machine Supplies","Office Supplies",-48.88
+1778,2019,MX,"Binding Machine Supplies","Office Supplies",881.05
+1779,2017,CA,"Canon P1-DHIII Palm Printing Calculator",Technology,-233.84
+1780,2016,EU,"Coloredge Poster Frame","Office Supplies",-139.08
+1781,2020,CA,"Global High-Back Leather Tilter Burgundy",Furniture,-64.66
+1782,2018,CN,"Acco Hot Clips Clips to Go","Office Supplies",1644.08
+1783,2020,CA,"Binding Machine Supplies","Office Supplies",-350.44
+1784,2018,MX,"Assorted Color Push Pins","Office Supplies",4.20
+1785,2021,MX,"3M Organizer Strips","Office Supplies",-44.07
+1786,2018,CA,"Imation DVD-RAM discs",Technology,-100.51
+1787,2017,CN,"GE 4 Foot Flourescent Tube 40 Watt",Furniture,-17.75
+1788,2019,EU,"3M Organizer Strips",Technology,1374.95
+1789,2021,EU,"Executive Impressions 12 Wall Clock",Furniture,-677.87
+1790,2015,MX,"Binding Machine Supplies","Office Supplies",1623.95
+1791,2018,MX,"Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac","Office Supplies",-122.84
+1792,2020,CN,"Hon Valutask Swivel Chairs",Furniture,252.49
+1793,2019,EU,"Acme Elite Stainless Steel Scissors","Office Supplies",-88.59
+1794,2016,EU,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",-485.68
+1795,2019,CA,"Decoflex Hanging Personal Folder File","Office Supplies",-16.37
+1796,2019,BZ,"Binding Machine Supplies","Office Supplies",-94.26
+1797,2021,EU,"Dual Level Single-Width Filing Carts","Office Supplies",6.33
+1798,2018,CN,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,-66.82
+1799,2022,CA,"Hon Valutask Swivel Chairs",Furniture,971.62
+1800,2017,CN,"Belkin 105-Key Black Keyboard",Furniture,-134.51
+1801,2019,CN,"Okidata Pacemark 4410N Wide Format Dot Matrix Printer",Technology,-4075.93
+1802,2020,EU,"Acme Elite Stainless Steel Scissors","Office Supplies",-18.56
+1803,2016,MX,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",220.36
+1804,2021,EU,"Fiskars Softgrip Scissors","Office Supplies",47.73
+1805,2020,CA,"Avery 501","Office Supplies",28.53
+1806,2020,EU,"GE 4 Foot Flourescent Tube 40 Watt",Furniture,-87.46
+1807,2020,EU,"Canon P1-DHIII Palm Printing Calculator",Technology,-3.95
+1808,2022,BZ,"Polycom ViaVideo Desktop Video Communications Unit","Office Supplies",28.18
+1809,2020,MX,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",-51.66
+1810,2015,CN,"Fellowes Super Stor/Drawer Files","Office Supplies",-193.91
+1811,2022,CA,"Global High-Back Leather Tilter Burgundy",Furniture,57.55
+1812,2019,EU,"Fellowes Super Stor/Drawer Files","Office Supplies",-333.43
+1813,2018,MX,"Gyration Ultra Professional Cordless Optical Suite",Technology,12.26
+1814,2020,BZ,"Hon Valutask Swivel Chairs",Furniture,-283.99
+1815,2019,CA,"Xerox 1904","Office Supplies",-195.34
+1816,2017,BZ,"DIXON Oriole Pencils","Office Supplies",-89.71
+1817,2020,EU,"Array Memo Cubes","Office Supplies",-44.42
+1818,2022,MX,"Southworth Structures Collection","Office Supplies",167.33
+1819,2019,CA,"MicroTAC 650",Technology,65.60
+1820,2019,MX,"O Sullivan Elevations Bookcase Cherry Finish",Furniture,0.26
+1821,2019,CN,"Executive Impressions 12 Wall Clock","Office Supplies",63.22
+1822,2022,CA,"Decoflex Hanging Personal Folder File",Furniture,-29.67
+1823,2015,CN,"Polycom ViaVideo Desktop Video Communications Unit","Office Supplies",-1319.50
+1824,2021,EU,"Xerox 1904","Office Supplies",262.20
+1825,2022,CA,"Iceberg OfficeWorks 42 Round Tables",Furniture,-119.81
+1826,2021,BZ,"1726 Digital Answering Machine",Technology,-9.11
+1827,2021,MX,"Tyvek  Top-Opening Peel Seel  Envelopes Gray","Office Supplies",172.56
+1828,2018,EU,"Xerox 1904","Office Supplies",45.08
+1829,2021,CA,"Xerox 1904","Office Supplies",-110.38
+1830,2015,EU,"Hewlett Packard 6S Scientific Calculator",Technology,1951.30
+1831,2016,MX,"Hewlett Packard 6S Scientific Calculator",Technology,1538.78
+1832,2018,MX,"Newell 321","Office Supplies",32.83
+1833,2021,BZ,"MicroTAC 650",Technology,51.59
+1834,2021,MX,"Dual Level Single-Width Filing Carts",Furniture,969.42
+1835,2022,EU,"Xerox 1904","Office Supplies",553.33
+1836,2015,EU,"Imation DVD-RAM discs",Technology,-30.45
+1837,2022,MX,"Sharp 1540cs Digital Laser Copier","Office Supplies",55.02
+1838,2023,BZ,Accessory36,Technology,-43.66
+1839,2022,MX,"Sanford Liquid Accent Highlighters","Office Supplies",-577.30
+1840,2017,CN,"Staples SlimLine Pencil Sharpener",Technology,-1535.49
+1841,2018,CN,"Imation DVD-RAM discs",Technology,-159.32
+1842,2015,EU,"Novimex Fabric Task Chair",Furniture,-74.09
+1843,2015,MX,"1726 Digital Answering Machine","Office Supplies",-137.52
+1844,2019,EU,"Tyvek  Top-Opening Peel Seel  Envelopes Gray","Office Supplies",-11.82
+1845,2022,MX,"DAX Solid Wood Frames",Furniture,238.93
+1846,2021,EU,"Newell 321","Office Supplies",-105.13
+1847,2020,MX,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,95.39
+1848,2015,CN,"Binding Machine Supplies","Office Supplies",261.39
+1849,2019,BZ,"Imation DVD-RAM discs",Technology,-135.46
+1850,2022,BZ,"Acco Hot Clips Clips to Go","Office Supplies",-31.69
+1851,2021,MX,"Xerox 1904","Office Supplies",690.70
+1852,2017,MX,8860,Technology,-13.07
+1853,2017,MX,"Imation DVD-RAM discs",Technology,-25.10
+1854,2017,CN,"Array Memo Cubes","Office Supplies",1.95
+1855,2017,BZ,"Binding Machine Supplies","Office Supplies",-340.53
+1856,2017,CN,"Binding Machine Supplies","Office Supplies",462.92
+1857,2016,MX,"Xerox 1904","Office Supplies",-131.16
+1858,2015,MX,"Xerox 1904","Office Supplies",-11.83
+1859,2016,MX,"Xerox 1904","Office Supplies",-65.58
+1860,2016,CA,"Staples SlimLine Pencil Sharpener",Technology,596.81
+1861,2017,BZ,"Dual Level Single-Width Filing Carts",Furniture,3739.39
+1862,2016,MX,"Executive Impressions 12 Wall Clock",Furniture,470.34
+1863,2018,BZ,"Fellowes Super Stor/Drawer Files",Technology,401.85
+1864,2016,BZ,"Decoflex Hanging Personal Folder File",Furniture,710.67
+1865,2019,CN,"Harmony HEPA Quiet Air Purifiers","Office Supplies",-92.32
+1866,2015,EU,"Global High-Back Leather Tilter Burgundy",Furniture,-1764.29
+1867,2017,BZ,"Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge","Office Supplies",527.88
+1868,2018,MX,"Tenex B1-RE Series Chair Mats for Low Pile Carpets","Office Supplies",34.52
+1869,2017,BZ,"Canon P1-DHIII Palm Printing Calculator",Technology,3576.88
+1870,2021,MX,"Newell 321","Office Supplies",20.38
+1871,2016,CA,"Fellowes Super Stor/Drawer Files","Office Supplies",31.11
+1872,2017,BZ,"Fellowes Super Stor/Drawer Files","Office Supplies",358.30
+1873,2017,CA,TimeportP7382,Technology,8.32
+1874,2022,CA,"Keytronic 105-Key Spanish Keyboard",Technology,24.02
+1875,2017,CA,"Hoover WindTunnel Plus Canister Vacuum","Office Supplies",-269.76
+1876,2023,EU,"Maxell DVD-RAM Discs",Technology,710.81
+1877,2022,BZ,"Executive Impressions 12 Wall Clock",Furniture,-2133.28
+1878,2022,MX,"Bagged Rubber Bands",Technology,80.07
+1879,2020,CN,"Xerox 1904","Office Supplies",896.41
+1880,2022,CA,"Binding Machine Supplies","Office Supplies",352.88
+1881,2022,CA,"Fiskars Softgrip Scissors","Office Supplies",68.68
+1882,2022,CN,"Holmes Odor Grabber","Office Supplies",-15.92
+1883,2022,BZ,"Rogers Profile Extra Capacity Storage Tub","Office Supplies",-114.20
+1884,2015,CA,"GE 4 Foot Flourescent Tube 40 Watt",Furniture,-25.00
+1885,2022,EU,"Tyvek  Top-Opening Peel Seel  Envelopes Gray","Office Supplies",255.15
+1886,2017,EU,"Dual Level Single-Width Filing Carts","Office Supplies",39.43
+1887,2021,CN,"Global High-Back Leather Tilter Burgundy",Furniture,-722.23
+1888,2022,CN,"Avery 501","Office Supplies",30.02
+1889,2022,CN,"Newell 321","Office Supplies",0.43
+1890,2020,MX,"Sanford 52201 APSCO Electric Pencil Sharpener","Office Supplies",66.22
+1891,2022,MX,"Xerox 1904","Office Supplies",-164.18
+1892,2016,CA,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",-79.40
+1893,2019,CN,"DIXON Oriole Pencils","Office Supplies",23.05
+1894,2018,MX,"Hon Valutask Swivel Chairs",Furniture,-127.30
+1895,2021,CA,"Xerox 1904","Office Supplies",-52.77
+1896,2021,BZ,"Personal Creations Ink Jet Cards and Labels","Office Supplies",-781.13
+1897,2020,CN,"EcoTones Memo Sheets","Office Supplies",-23.30
+1898,2015,EU,"Xerox 1904","Office Supplies",58.81
+1899,2022,BZ,"Avery 501","Office Supplies",4.04
+1900,2023,BZ,"Boston 16765 Mini Stand Up Battery Pencil Sharpener","Office Supplies",-10.37
+1901,2018,MX,"Jet-Pak Recycled Peel",Technology,989.81
+1902,2020,MX,"Eldon Image Series Black Desk Accessories",Furniture,2861.01
+1903,2017,MX,"Eldon Image Series Black Desk Accessories",Furniture,1544.93
+1904,2022,BZ,"Binding Machine Supplies","Office Supplies",126.00
+1905,2017,CN,"GE 4 Foot Flourescent Tube 40 Watt",Furniture,-92.93
+1906,2016,BZ,"T28 WORLD",Technology,-39.81
+1907,2022,CA,"Keytronic 105-Key Spanish Keyboard",Technology,-29.07
+1908,2015,MX,"Belkin 105-Key Black Keyboard","Office Supplies",-19.30
+1909,2015,BZ,"Turquoise Lead Holder with Pocket Clip","Office Supplies",40.66
+1910,2018,BZ,"Binding Machine Supplies","Office Supplies",137.68
+1911,2021,CN,"Unpadded Memo Slips","Office Supplies",-62.00
+1912,2019,CA,"Avery 501","Office Supplies",47.53
+1913,2017,CA,"Binding Machine Supplies","Office Supplies",379.40
+1914,2016,CA,"Imation DVD-RAM discs",Technology,-41.83
+1915,2019,CA,"Verbatim DVD-RAM 5.2GB Rewritable Type 1 DS",Technology,372.40
+1916,2022,EU,"Binding Machine Supplies","Office Supplies",-116.35
+1917,2018,MX,"Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms",Furniture,1304.90
+1918,2022,BZ,"2300 Heavy-Duty Transfer File Systems by Perma",Technology,605.05
+1919,2021,CA,"Binding Machine Supplies","Office Supplies",107.45
+1920,2020,MX,"High Speed Automatic Electric Letter Opener","Office Supplies",18.41
+1921,2016,EU,"Executive Impressions 12 Wall Clock",Furniture,65.63
+1922,2018,CA,"Staples SlimLine Pencil Sharpener",Furniture,-7.73
+1923,2019,CA,"Canon P1-DHIII Palm Printing Calculator","Office Supplies",-48.00
+1924,2016,CN,"Lexmark 4227 Plus Dot Matrix Printer",Technology,66.22
+1925,2016,CN,"Xerox 1904","Office Supplies",-23.53
+1926,2019,CN,"MicroTAC 650",Technology,10.68
+1927,2021,MX,"Avery 501","Office Supplies",58.26
+1928,2019,MX,"Binding Machine Supplies","Office Supplies",-42.17
+1929,2021,BZ,"Belkin 105-Key Black Keyboard",Furniture,66.36
+1930,2020,EU,"Keytronic 105-Key Spanish Keyboard",Technology,-1.90
+1931,2019,CN,"Unpadded Memo Slips","Office Supplies",-37.05
+1932,2015,BZ,"Bagged Rubber Bands","Office Supplies",-56.89
+1933,2019,EU,"Xerox 1904","Office Supplies",-189.71
+1934,2016,CA,"High Speed Automatic Electric Letter Opener","Office Supplies",1628.37
+1935,2021,CN,"Binding Machine Supplies","Office Supplies",-4.48
+1936,2017,CN,"SAFCO Arco Folding Chair",Furniture,3193.28
+1937,2018,CN,"Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock",Furniture,43.69
+1938,2017,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",349.06
+1939,2019,MX,"Binding Machine Supplies","Office Supplies",1.99
+1940,2017,CA,"Dual Level Single-Width Filing Carts","Office Supplies",-22.01
+1941,2019,CA,"Maxell DVD-RAM Discs",Technology,426.46
+1942,2019,CA,"Avery 501","Office Supplies",19.55
+1943,2016,MX,"Executive Impressions 12 Wall Clock",Furniture,152.48
+1944,2020,EU,"Safco Industrial Wire Shelving","Office Supplies",67.01
+1945,2022,EU,"StarTAC 7797",Technology,374.63
+1946,2023,CN,"Ampad #10 Peel & Seel Holiday Envelopes","Office Supplies",-3.24
+1947,2023,MX,"Binding Machine Supplies","Office Supplies",6384.44
+1948,2018,MX,Crate-A-Files,"Office Supplies",-116.76
+1949,2022,MX,"Belkin 105-Key Black Keyboard",Technology,-160.95
+1950,2016,MX,"Staples SlimLine Pencil Sharpener","Office Supplies",-41.87
+1951,2018,BZ,"Eldon Image Series Black Desk Accessories",Furniture,-24.71
+1952,2019,MX,"Tenex B1-RE Series Chair Mats for Low Pile Carpets",Furniture,349.49

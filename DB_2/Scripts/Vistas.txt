@@ -1,0 +1,35 @@
+-- Vistas
+ 
+grant select (clave_alu, ap_paterno, ap_materno, nombre, curp) 
+on colegio2808.alumnos to 'ustest'@'localhost';
+ 
+  
+grant select (clave_alu,alumnos_pagos, fecha_pago, id), update (fecha_pago) 
+on colegio2808.alumnos to 'ustest'@'localhost';
+
+show grants for 'ustest'@'localhost';
+
+show tables from colegio2808;
+use colegio2808;
+
+create or replace view alumnas as
+select clave_alu matricula, concat_ws(' ', nombre, ap_paterno, ap_materno) as alumno, curp, ciudad
+from alumnos
+where sexo = 'F';
+ 
+ select * from alumnas; 
+ 
+create or replace view alumnos_pagos as
+select a.clave_alu, concat_ws(' ', nombre, ap_paterno, ap_materno) as alumno, ifnull(sum(pago), 0)  as tpago, count(pago) as npago 
+from alumnos a
+left join pagos p ON(a.clave_alu = p.clave_alu)
+group by a.clave_alu;
+
+select * from alumnos_pagos; 
+
+
+grant select on colegio2808.alumnas to 'ustest'@'localhost';
+
+ grant select on colegio2808.alumnos_pagos to 'ustest'@'localhost';
+ 
+ select * from information_schema.tables where table_schema = 'colegio2808';
